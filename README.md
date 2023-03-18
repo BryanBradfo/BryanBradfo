@@ -34,7 +34,7 @@ I’m looking to collaborate on Data Science domain.
 - 📧 bryanchen1105@gmail.com
 - 🌐 Eportfolio : bryanbradfo.github.io
 
-- 😄 Pronouns :
+😄 Pronouns :
 Him
 
 ⚡ Fun fact : 
