@@ -1,22 +1,22 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h1 align="center">Hi 👋, I'm Bryan CHEN</h1>
-<h3 align="center">A passionate Data Scientist from France</h3>
+<h3 align="center">A Data Science Passionate from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanbradfo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanbradfo" /> </p>
 
-- 🔭 I’m currently working on **finite element method project**
+- 🔭 I’m currently working on **Natural Language Processing (NLP) project**
 
-- 🌱 I’m currently learning **how to deploy ReactJS apps and other types of languages**
+- 🌱 I’m currently learning **how to deploy ReactJS apps and other types of languages like Rust and so on**
 
 - 👯 I’m looking to collaborate on **collaborate on Data Science domain**
 
 - 👨‍💻 All of my projects are available at [bryanbradfo.github.io](bryanbradfo.github.io)
 
-- 💬 Ask me about **I'm a super curious student that want to know more about Data Science, Big Data and High Performance Computing.**
+- 💬 Ask me about **I'm a super curious engineer that wants to know more about Data Science, Big Data, and High-Performance Computing.**
 
 - 📫 How to reach me **bryanchen1105@gmail.com 🌐**
 
-- ⚡ Fun fact **I'm always the guys that people want to be the presentator.**
+- ⚡ Fun fact **I'm always the guys that people want to be the presenter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
