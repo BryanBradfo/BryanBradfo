@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bryan-chen1105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-chen1105/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/bryanbradfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bryanbradfo" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/bryanbradfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bryanbradfo" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/bryan.chen.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40" /></a>
 <a href="https://instagram.com/bryanbradfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanbradfo" height="30" width="40" /></a>
 <a href="https://discord.gg/3802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3802" height="30" width="40" /></a>
