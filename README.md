@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **collaborate on Data Science domain**
 
-- 👨‍💻 All of my projects are available at [bryanbradfo.github.io](bryanbradfo.github.io)
+- 👨‍💻 All of my projects are available at bryanbradfo.github.io
 
 - 💬 Ask me about **I'm a super curious engineer that wants to know more about Data Science, Big Data, and High-Performance Computing.**
 
