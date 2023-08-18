@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **how to deploy ReactJS apps and other types of languages like Rust and so on**
 
-- 👯 I’m looking to collaborate on **collaborate on Data Science domain**
+- 👯 I’m looking to collaborate on **collaborate on Data Science and Computer Science domains**
 
 - 👨‍💻 All of my projects are available at bryanbradfo.github.io
 
