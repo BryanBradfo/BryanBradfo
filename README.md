@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanbradfo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanbradfo" /> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing (NLP) project**
+- 🔭 I’m currently working on **Natural Language Processing (NLP) and Computer Vision (CV) projects** 
 
 - 🌱 I’m currently learning **how to deploy ReactJS apps and other types of languages like Rust and so on**
 
