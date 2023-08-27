@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **how to deploy ReactJS apps and other types of languages like Rust and so on.**
 
-- 👯 I’m looking forward to collaborate on **collaborate on Data Science and Computer Science domains.**
+- 👯 I’m looking forward to collaborate on **Data Science and Computer Science domains.**
 
 - 👨‍💻 All of my projects are available at **https://bryanbradfo.github.io**
 
