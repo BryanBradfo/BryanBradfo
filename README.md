@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Natural Language Processing (NLP) and Computer Vision (CV) projects.** 
 
-- 🌱 I’m currently learning **how to deploy ReactJS apps and other types of languages like Rust and so on.**
+- 🌱 I’m currently learning **how to deploy ReactJS apps and learning Rust, Docker, Kubernetes and so on.**
 
-- 👯 I’m looking forward to collaborate on **Data Science and Computer Science domains.**
+- 👯 I’m looking forward to collaborate on **Data Science and Computer Science projects.**
 
 - 👨‍💻 All of my projects are available at **https://bryanbradfo.github.io**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **bryanchen1105@gmail.com 🌐**
 
-- ⚡ Fun fact **I'm always the guys that people want to be the presenter.**
+- ⚡ Fun fact **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
