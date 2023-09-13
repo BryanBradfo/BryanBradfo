@@ -1,4 +1,7 @@
 
+![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Bryan CHEN</h1>
 <h3 align="center">A Data Science and Big Data Passionate from France</h3>
 <!--
