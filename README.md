@@ -1,5 +1,5 @@
 
-![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner.png)
+![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner0.png)
 
 
 <h1 align="center">Hi 👋, I'm Bryan CHEN</h1>
