@@ -38,6 +38,14 @@
 - ⚡ Fun fact **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
 
 <h3 align="left">Connect with me:</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-BryanChen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-chen1105/) [![Instagram Badge](https://img.shields.io/badge/-@bryanbradfo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bryanbradfo) [![Mail Badge](https://img.shields.io/badge/-bryanchen1105-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bryanchen1105@gmail.com) ![Discord Badge](https://img.shields.io/badge/-bryanbradfo-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white) [![Kaggle Badge](https://img.shields.io/badge/-bryanbradfo-white?style=flat&labelColor=white&logo=kaggle&logoColor=blue)](https://www.kaggle.com/bryanbradfo) [![Datacamp Badge](https://img.shields.io/badge/-bryanbradfo-03EF62?style=flat&labelColor=03EF62&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/bryanbradfo) [![Twitter Badge](https://img.shields.io/badge/-@bryanchen190423-black?style=flat&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/bryanchen190423)](https://twitter.com/bryanchen190423) 
+
+<!--
+[![Youtube Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) 
+--->
+or, if you prefer : 
+
 <p align="left">
 <a href="https://www.linkedin.com/in/bryan-chen1105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-chen1105/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/bryanbradfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bryanbradfo" height="30" width="40" /></a>
