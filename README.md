@@ -55,6 +55,7 @@ or, if you prefer :
 <a href="https://www.datacamp.com/portfolio/bryanbradfo" target="blank"><img align="center" src="https://www.svgrepo.com/show/349332/datacamp.svg" height="30" width="40"/></a>
 <a href="https://twitter.com/bryanchen190423" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bryan.chen.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40" /></a>
+<a href="mailto:bryanchen1105@gmail.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
