@@ -76,9 +76,6 @@ or, if you prefer :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbradfo&show_icons=true&locale=en" alt="bryanbradfo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanbradfo&" alt="bryanbradfo" /></p>
-
-
 <!-- ### Hi there 👋 -->
 
 <!--
