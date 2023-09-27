@@ -33,9 +33,9 @@
  💬 Ask me about **I'm a super curious engineer that wants to know more about Data Science, Big Data, and High-Performance Computing.**
 ---->
 
-- 📫 How to reach me **bryanchen1105@gmail.com 🌐**
+- 📫 How to reach me: **bryanchen1105@gmail.com 🌐**
 
-- ⚡ Fun fact **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
+- ⚡ Fun fact: **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
 
 <h3 align="left">Connect with me:</h3>
 
