@@ -68,7 +68,7 @@ or, if you prefer :
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" width="40" height="40"/> </a>
- <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" alt="cuda" width="40" height="40"/>
+<a href="https://developer.nvidia.com/cuda-downloads" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" alt="cuda" width="40" height="40"/> </a>
  <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
 </p>
 
