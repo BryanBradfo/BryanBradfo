@@ -69,7 +69,7 @@ or, if you prefer :
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" width="40" height="40"/> </a>
 <a href="https://developer.nvidia.com/cuda-downloads" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" alt="cuda" width="40" height="40"/> </a>
- <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbradfo&show_icons=true&locale=en&layout=compact" alt="bryanbradfo" /></p>
