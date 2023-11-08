@@ -4,7 +4,7 @@
 ![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Bryan CHEN</h1>
-<h3 align="center">A Data Science and Big Data Passionate from France</h3>
+<h3 align="center">A Data Science, Artificial Intelligence and Big Data Passionate from France</h3>
 <!--
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 --->
