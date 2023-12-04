@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Natural Language Processing (NLP) and Computer Vision (CV) projects.** 
 
-- 🌱 I’m currently learning **how to deploy ReactJS apps and learning Rust, Docker, Kubernetes and so on.**
+- 🌱 I’m currently learning **learning Rust, Docker, Kubernetes, Spark, Hadoop, and so on.**
 
 - 👯 I’m looking forward to collaborate on **Data Science and Computer Science projects.**
 
