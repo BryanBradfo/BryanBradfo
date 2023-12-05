@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **learning Rust, Docker, Kubernetes, Spark, Hadoop, and so on.**
 
-- 👯 I’m looking forward to collaborate on **Data Science and Computer Science projects.**
+- 🤗 I’m looking forward to collaborate on **Data Science and Computer Science projects.**
 
 - 👨‍💻 All of my projects are available at **https://bryanbradfo.github.io**
 
