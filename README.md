@@ -65,7 +65,7 @@ or, if you prefer :
 <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> </a> <a href="https://aws.amazon.com/fr/elasticmapreduce/details/spark/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apachespark" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/fr-fr/landing/free-account/?ef_id=_k_CjwKCAjwv-2pBhB-EiwAtsQZFHPl9ZKaPdmTTZIygUooQvB8efqryLLbAG-Ltd0XRFF-pVn0u18F4BoCcnwQAvD_BwE_k_&OCID=AIDcmms35ch80f_SEM__k_CjwKCAjwv-2pBhB-EiwAtsQZFHPl9ZKaPdmTTZIygUooQvB8efqryLLbAG-Ltd0XRFF-pVn0u18F4BoCcnwQAvD_BwE_k_&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFHPl9ZKaPdmTTZIygUooQvB8efqryLLbAG-Ltd0XRFF-pVn0u18F4BoCcnwQAvD_BwE" target="_blank" rel="noreferrer">
  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/fr-fr" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vue-icon.svg" alt="vuejs" width="40" height="40"/> </a>
-
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 <h3 align="left">Python libraries:</h3>
