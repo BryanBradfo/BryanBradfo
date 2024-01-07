@@ -69,7 +69,7 @@ or, if you prefer :
  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/fr-fr" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vue-icon.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Python libraries:</h3>
