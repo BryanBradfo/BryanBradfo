@@ -70,6 +70,7 @@ or, if you prefer :
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vue-icon.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
 <h3 align="left">Python libraries:</h3>
