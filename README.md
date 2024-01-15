@@ -60,7 +60,7 @@ or, if you prefer :
 <a href="https://www.facebook.com/bryan.chen.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40" /></a>
 <a href="mailto:bryanchen1105@gmail.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40"/> </a>
 <a href="https://huggingface.co/BryanBradfo" target="blank"> <img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="hugging_face" height="35" width="35"/> </a> 
-<img align="center" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" alt="line" height="35" width="35"/>
+<a href="https://line.me/en/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" alt="line" height="35" width="35"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
