@@ -3,7 +3,21 @@
 --->
 ![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner1.png)
 
+<!--
 <h1 align="center">Hi 👋, I'm Bryan CHEN</h1>
+--->
+
+<!--
+<h1 align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&color=010202&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Bryan+Chen" alt="Typing SVG" />
+</h1>
+--->
+
+
+<h1 align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&color=010202&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Bryan+Chen;Welcome+to+my+github+page%F0%9F%98%81" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A Data Science, Artificial Intelligence and Big Data Passionate from France</h3>
 <!--
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
