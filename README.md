@@ -4,7 +4,11 @@
 <!--
 ![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner1.png)
 --->
+
+<!--
 ![logo](https://github.com/BryanBradfo/BryanBradfo/blob/main/Github%20Banner2.png)
+--->
+
 
 <!--
 <h1 align="center">Hi 👋, I'm Bryan CHEN</h1>
@@ -16,12 +20,16 @@
 </h1>
 --->
 
-
+<!--
 <h1 align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=40&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Bryan+Chen;Welcome+to+my+github+page+" alt="Typing SVG" />
 </h1>
+--->
 
-<h3 align="center">Research Engineer doing AI at @CNRS, from @NUS, @ENSEEIHT, @Polytechnique, and @TsingHua</h3>
+<h1 align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Parkinsans&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I+am+Bryan+Chen;I+am+an+AI+Enthusiast" alt="Typing SVG" />
+</h1>
+<h3 align="center">Research Engineer doing AI</h3>
 <!--
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 --->
