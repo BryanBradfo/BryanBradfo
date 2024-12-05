@@ -46,13 +46,14 @@
 <h3 align="center">Computer Science is my major </h3>
 ---->
 
+<!---
+- 🤗 I’m looking forward to collaborate on **ML, Data Science, and Open Source projects.**
+--->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanbradfo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanbradfo" /> </p>
 
 - 🔭 I’m currently working on **CoVR (Composed Video Retrieval) and Classifier-free Diffusion Guidance.** 
 - 🌱 I’m currently learning **Quantization, Low-Rank Adaptation (LoRA), Efficient Checkpointing, and Compressing techniques.**
-<!---
-- 🤗 I’m looking forward to collaborate on **ML, Data Science, and Open Source projects.**
---->
 - 👨‍💻 All of my projects are available at **[https://bryanbradfo.github.io](https://bryanbradfo.github.io/aboutme.html)**
 - 📫 How to reach me: **bryan.chen@polytechnique.edu**
 - ⚡ Fun fact: **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
