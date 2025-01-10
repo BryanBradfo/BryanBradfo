@@ -97,8 +97,21 @@ or, if you prefer :
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/></a>
 </p>
 
+## Contact 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbradfo&show_icons=true&locale=en&layout=compact" alt="bryanbradfo" /></p>
+<div> 
+  <a href="[https://www.linkedin.com/in/yassine-mkaouar/](https://linkedin.com/in/bryan-chen1105)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: bryan.chen@polytechnique.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbradfo&show_icons=true&locale=en&layout=compact" alt="bryanbradfo" />
+</p>
+
 
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbradfo&show_icons=true&locale=en" alt="bryanbradfo" /></p>
