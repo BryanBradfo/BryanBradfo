@@ -55,7 +55,7 @@
 ## About me 
 
 - I’m currently working on **[SAVs](https://arxiv.org/abs/2412.00142), [Knowledge Distillation for Model Interpretability](https://arxiv.org/pdf/2305.15734), [HYGENE: Diffusion-based hypergraph generation method](https://arxiv.org/pdf/2408.16457), and an anomaly detection challenge.** 
-- All of my projects are available at **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html)**
+- More about me on **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html)**
 - Fun fact: **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
 
 <!--
