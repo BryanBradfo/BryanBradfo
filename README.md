@@ -52,11 +52,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanbradfo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanbradfo" /> </p>
 
-## About me 
+## about me 
 
-- I’m currently working on **[SAVs](https://arxiv.org/abs/2412.00142), [Knowledge Distillation for Model Interpretability](https://arxiv.org/pdf/2305.15734), [HYGENE: Diffusion-based hypergraph generation method](https://arxiv.org/pdf/2408.16457), and an anomaly detection challenge.** 
-- More about me on **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html).**
-- Fun fact: **I'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
+- i’m currently working on **[sav](https://arxiv.org/abs/2412.00142), [knowledge distillation for model interpretability](https://arxiv.org/pdf/2305.15734), [hygene: diffusion-based hypergraph generation method](https://arxiv.org/pdf/2408.16457), and an anomaly detection challenge.** 
+- more about me on **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html).**
+- fun fact: **i'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
 
 <!--
 <h3 align="left">Connect with me:</h3>
