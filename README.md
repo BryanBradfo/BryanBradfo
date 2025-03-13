@@ -103,6 +103,8 @@ or, if you prefer :
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/></a>
 </p>
 ---->
+
+ <!---
 ---
 
 ## Contact 
@@ -112,15 +114,17 @@ or, if you prefer :
   <a href = "mailto: bryan.chen@polytechnique.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
-
+---->
  <!---
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  --->
 
+ <!---
 </div>
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbradfo&show_icons=true&locale=en&layout=compact" alt="bryanbradfo" />
 </p>
+ --->
 
 
 <!---
