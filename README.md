@@ -26,10 +26,17 @@
 </h1>
 --->
 
+<!--
 <h1 align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Parkinsans&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I+am+Bryan+Chen;I+am+an+AI+Enthusiast" alt="Typing SVG" />
 </h1>
-<!-- <h3 align="center">Research Engineer doing AI</h3> -->
+--->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Parkinsans&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi'+%F0%9F%A5%91%2C+i'm+bryan" alt="Typing SVG" />
+</h1>
+
+ <!-- <h3 align="center">Research Engineer doing AI</h3> -->
 <!--
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 --->
@@ -50,7 +57,9 @@
 - 🤗 I’m looking forward to collaborate on **ML, Data Science, and Open Source projects.**
 --->
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanbradfo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanbradfo" /> </p>
+--->
 
 ## about me 
 
