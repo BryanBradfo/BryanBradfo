@@ -66,6 +66,7 @@
 - i’m currently working on **[sparse attention vectors (sav)](https://arxiv.org/abs/2412.00142), [knowledge distillation for model interpretability](https://arxiv.org/pdf/2305.15734), [hygene: diffusion-based hypergraph generation method](https://arxiv.org/pdf/2408.16457), and an anomaly detection challenge.** 
 - more about me on **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html).**
 - fun fact: **i'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
+- fun fact²: **i say "mamamia" at least 10 times a day, whether debugging code, lifting weights, or realizing my training just crashed after 12 hours.**
 
 <!--
 <h3 align="left">Connect with me:</h3>
