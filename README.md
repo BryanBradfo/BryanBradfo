@@ -66,7 +66,7 @@
 - i’m currently working on open source projects!
 - more about me on **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html).**
 - fun fact: **i'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
-- fun fact²: **i say "mamamia" at least 10 times a day, whether debugging code, lifting weights, or realizing my training just crashed after 12 hours.**
+- fun fact²: **i say "mamamia" at least 10 times a day, whether debugging code, lifting weights, or realizing my code just crashed after 12 hours of running.**
 
 <!--
 <h3 align="left">Connect with me:</h3>
