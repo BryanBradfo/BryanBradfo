@@ -1,81 +1,148 @@
-# BryanBradfo 🇫🇷x🇸🇬
+# Bryan C. 🐧​
 
-## About Me 
+**`Machine Learning Engineer & Data Scientist @ Iliad Group | Free / Scaleway`**
 
-- i’m currently working on open source projects!
-- more about me on **[https://bryanbradfo.github.io/aboutme.html](https://bryanbradfo.github.io/aboutme.html).**
-- fun fact: **i'm always the one that people want to be the speaker even though I don't feel so comfortable with this.**
-- fun fact²: **i say "mamamia" at least 10 times a day, whether debugging code, lifting weights, or realizing my code just crashed after 12 hours of running.**
+_Applying AI to solve real-world problems. :))_ 
 
-<!--
-<h3 align="left">Connect with me:</h3>
---->
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-BryanChen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-chen1105/) [![Instagram Badge](https://img.shields.io/badge/-@bryanbradfo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bryanbradfo) ![Discord Badge](https://img.shields.io/badge/-bryanbradfo-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white) [![Kaggle Badge](https://img.shields.io/badge/-bryanbradfo-white?style=flat&labelColor=white&logo=kaggle&logoColor=blue)](https://www.kaggle.com/bryanbradfo) [![Datacamp Badge](https://img.shields.io/badge/-bryanbradfo-03EF62?style=flat&labelColor=03EF62&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/bryanbradfo) [![Twitter Badge](https://img.shields.io/badge/-@imbryanbradfo-black?style=flat&labelColor=black&logo=x&logoColor=white&link=https://twitter.com/imbryanbradfo)](https://twitter.com/imbryanbradfo) [![Facebook Badge](https://img.shields.io/badge/-BryanChen-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/bryan.chen.73)](https://www.facebook.com/bryan.chen.73) [![Mail Badge](https://img.shields.io/badge/-bryanchen1105-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bryanchen1105@gmail.com) [![HF Badge](https://img.shields.io/badge/%F0%9F%A4%97BryanBradfo-yellow)](https://huggingface.co/BryanBradfo) 
---->
+## About Me 🚀
 
-<!--
-[![Youtube Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) 
+I am a **Computer Scientist** passionate about **Artificial Intelligence**, **Deep Learning**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
+<h3 align="center">
+<img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
+<!-- https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif / https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f -->
+</h3>
 
-or, if you prefer : 
---->
+Outside of work, I love traveling to explore new countries and cultures. I am also deeply committed to equality of opportunity. As an AI Young Leader recognized by the UN, I am leveraging AI to support individuals and communities in need, ensuring that technological advancements benefit all.
 
-<!--
+```yml
+from Persistence import Excellence
+from ComputerScience import ExcellentProgrammer
 
-<p align="left">
-<a href="https://www.linkedin.com/in/bryan-chen1105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-chen1105/" height="30" width="40" /></a>
-<a href="https://instagram.com/bryanbradfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanbradfo" height="30" width="40" /></a>
-<a href="https://discord.gg/3802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3802" height="30" width="40" /></a> 
-<a href="https://www.kaggle.com/bryanbradfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bryanbradfo" height="30" width="40" /></a>
-<a href="https://www.datacamp.com/portfolio/bryanbradfo" target="blank"><img align="center" src="https://www.svgrepo.com/show/349332/datacamp.svg" height="30" width="40"/></a>
-<a href="https://twitter.com/bryanchen190423" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bryan.chen.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40" /></a>
-<a href="mailto:bryanchen1105@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="https://www.facebook.com/bryan.chen.73" height="30" width="40"/></a>
-<a href="https://huggingface.co/BryanBradfo" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="hugging_face" height="35" width="35"/></a><a href="https://line.me/en/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/line/line-icon.svg" alt="line" height="35" width="35"/></a>
-</p>
--->
+class BryanC(ExcellentProgrammer):
 
-<!---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="40" height="40"/></a><a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mit_scratch/mit_scratch-official.svg" alt="scratch" width="40" height="40"/></a><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a><a href=https://flask.palletsprojects.com/en/2.3.x/ target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a><a href=https://flutter.dev/ target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a><a href=https://dart.dev/ target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a><a href=https://aws.amazon.com/ target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="aws" width="40" height="40"/></a><a href=https://www.docker.com/ target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a><a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a><a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/></a><a href="https://aws.amazon.com/fr/elasticmapreduce/details/spark/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apachespark" width="40" height="40"/></a><a href="https://powerbi.microsoft.com/fr-fr/landing/free-account/?ef_id=_k_CjwKCAjwv-2pBhB-EiwAtsQZFHPl9ZKaPdmTTZIygUooQvB8efqryLLbAG-Ltd0XRFF-pVn0u18F4BoCcnwQAvD_BwE_k_&OCID=AIDcmms35ch80f_SEM__k_CjwKCAjwv-2pBhB-EiwAtsQZFHPl9ZKaPdmTTZIygUooQvB8efqryLLbAG-Ltd0XRFF-pVn0u18F4BoCcnwQAvD_BwE_k_&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFHPl9ZKaPdmTTZIygUooQvB8efqryLLbAG-Ltd0XRFF-pVn0u18F4BoCcnwQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/></a><a href="https://www.tableau.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="tableau" width="40" height="40"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/></a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
----->
-<!---
-## Programming skills
+    def __init__(self):
+    
+        self.country = "France 🇫🇷"
+        self.current_city = "Paris, France 🇫🇷"
+        self.current_job = "Data Scientist & ML Engineer @ Iliad Group (Free / Scaleway)"
+        self.past_experiences = ["Machine Learning Researcher @ NUS School of Computing",
+                                 "Machine Learning Researcher @ CNRS"]
+        self.universities = ["École Polytechnique - France 🇫🇷",
+                             "ENSEEIHT (ENS Paris-Saclay) - France 🇫🇷"]
+        self.passions = ["traveling", "exploring_cultures", "languages"]
 
-<p align="left"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a> 
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/></a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" width="40" height="40"/></a>
-<a href="https://developer.nvidia.com/cuda-downloads" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" alt="cuda" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/></a>
-</p>
----->
+    def im_interested_in(self):
+        
+        return ["deep_learning", "machine_learning", "data_science",
+                "computer_vision", "natural_language_processing", 
+                "generative_models", "model_compression", "responsible_ai"]
 
- <!---
+    def goals_and_commitments(self)
+
+        return self.develop_impactful_ai_solutions() \\
+               and self.advance_research_in(["machine_learning", "responsible_ai"]) \\
+               and self.contribute_to_open_source() \\
+               and  Excellence("everything")
+```
 ---
 
-## Contact 
+## 💼 Recent Work Experiences
 
-<div> 
-  <a href="[https://www.linkedin.com/in/yassine-mkaouar/](https://linkedin.com/in/bryan-chen1105)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: bryan.chen@polytechnique.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
----->
- <!---
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
- --->
+### NEW - April 2025: Data Scientist & Machine Learning Engineer @ Iliad Group | Free / Scaleway
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Data Scientist & Machine Learning Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
- <!---
-</div>
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanbradfo&show_icons=true&locale=en&layout=compact" alt="bryanbradfo" />
+<h3 align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Iliad Group!" width=250>
+</h3>
+
+### March 2024 - August 2024: Machine Learning Researcher @ NUS School of Computing
+During my time at the **National University of Singapore (NUS) School of Computing** in **Singapore**, I worked as a **Machine Learning Researcher**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
+
+<h3 align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=200>
+</h3>
+
+### June 2023 - August 2023: Machine Learning Researcher @ CNRS
+As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
+
+<h3 align="center">
+<img src=https://www.expedition-med.org/wp-content/uploads/2020/07/logo-cnrs.png" alt="CNRS!" width=220>
+<!-- https://www.laas.fr/sites/default/files/inline-images/logo-laas-cnrs-quadri_0.jpg -->
+</h3>
+
+## 🏆 Competitive Achievements & Research Contributions
+
+I am passionate about pushing the boundaries of AI and have actively participated in data challenges and contributed to research.
+
+### :trophy: Data Challenges & Competitions (Nov 2023 - Mar 2025)
+*   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Report](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
+*   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate & Report](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
+*   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
+*   **Rank 6/30**: EUROSAT classification with image classification DNNs. ([Notebook](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_original.ipynb))
+
+### :scroll: Research Papers, Extensions & Presentations (Dec 2024 - Mar 2025)
+*   **CoVR-2 (AAAI Extension)**: Explored balanced, context-aware representations and better embeddings alignment. ([Paper](https://arxiv.org/abs/2308.14746))
+*   **Improving Vision Language Models**: Extended sparse attention vectors approach. ([Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
+*   **HYGENE: Diffusion-based Hypergraph Generation (AAAI Presentation)**: Hypergraph generation with diffusion. ([Report](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link))
+*   **Impact of Knowledge Distillation for Model Interpretability (ICML Blog)**: Blog post on interpretability. ([Blog Post](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/))
+*   **Classifier-Free Diffusion Guidance (NeurIPS Review)**: Jointly training conditional/unconditional diffusion models. ([Report](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link))
+*   **Recommender Systems with Generative Retrieval (NeurIPS Presentation)**: TIGER, generative retrieval of item IDs. ([Presentation](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing))
+*   **Predicting Naturalness using Acoustic Indices**: Utilized scikit-maad, VGGish & PANNs.
+*   **Neural Graph Generation conditioned on Text Descriptions**: Project at École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
+
+---
+### 🛠️ Language and Tools
+
+<img align='left' alt='Python' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align='left' alt='Julia' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />  
+<img align='left' alt='PyTorch' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align='left' alt='TensorFlow' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align='left' alt='Scikit-learn' width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align='left' alt='Pandas' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align='left' alt='NumPy' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align='left' alt='HuggingFace' width="30px" style="padding-right:10px;" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+<img align='left' alt='Git' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align='left' alt='GitHub' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align='left' alt='Docker' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align='left' alt='LaTeX' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img align='left' alt='Jupyter' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align='left' alt='C++' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align='left' alt='SQL' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> 
+<img align='left' alt='Linux' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
+<br />
+<br />
+
+# 
+
+<h3 align="left">:earth_americas: Connect with me</h3>
+
+<a href="https://linkedin.com/in/bryanbradfo">
+    <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
+</a>
+
+<br />
+
+---
+
+<h3 align="left"> :pushpin: My Projects</h3>
+
+<p align="left">
+I've undertaken numerous projects spanning a diverse range of fields, including internships, research endeavors, academic coursework, and competitive data challenges. These are consolidated into repositories on my GitHub. You'll discover a wide variety of subjects within, including Deep Learning, Optimization, Mathematics, Software Development and Algorithms, among others!
 </p>
- --->
+
+## Looking forward to...
+
+I'm always excited to take on new challenges in AI research and application. If you have an interesting project, a research idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things AI :)
 
 
-<!---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanbradfo&show_icons=true&locale=en" alt="bryanbradfo" /></p>
---->
+#
+
+<h3 align="center">Thanks for your visit! Feel free to explore my repositories! :)</h3>
+
+<h3 align="center">
+<img src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" alt="AI & Innovation" width=200>
+<!-- https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe -->
+</h3>
