@@ -31,6 +31,7 @@ class BryanC(ExcellentProgrammer):
         self.universities = ["École Polytechnique - France 🇫🇷",
                              "ENSEEIHT (ENS Paris-Saclay) - France 🇫🇷"]
         self.passions = ["traveling", "exploring_cultures", "languages"]
+        self.volunteer_engagements = ["AI Young Leader @ ITU (Paris-Hub) for AI for Good"]
 
     def im_interested_in(self):
         
@@ -70,6 +71,24 @@ As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I deve
 <img src=https://www.expedition-med.org/wp-content/uploads/2020/07/logo-cnrs.png" alt="CNRS!" width=220>
 <!-- https://www.laas.fr/sites/default/files/inline-images/logo-laas-cnrs-quadri_0.jpg -->
 </h3>
+
+## 🌍 AI for Good: ITU Young Leader (Paris-Hub)
+
+<p align="center">
+      <img width="150" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
+  <!--<img width="200" alt="AI for Good Logo" src="https://upload.wikimedia.org/wikipedia/fr/e/e2/Itu-international_telecommunication_union-logo-blue.png"> -->
+</p>
+
+As an **AI Young Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** programme. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
+
+We believe that while AI is rapidly transforming our societies, it remains largely misunderstood. Our mission is to **democratize access to a rigorous, accessible, and deeply humanistic AI culture**. We aim to bridge the gap in understanding for students, non-specialist researchers, and citizens, thereby reducing confusion and fostering engagement.
+
+In this capacity, I collaborate with the team to:
+*   **Engage with local organizations** to understand their on-the-ground realities and needs.
+*   Explore how AI technology can modestly **contribute to supporting their missions**.
+*   Develop concrete projects, such as our current exploration of a **solidarity chatbot** for individuals experiencing homelessness or extreme precarity.
+
+Our approach is fundamentally **collaborative and field-driven**, ensuring that the solutions we explore are relevant and impactful. This engagement is a core part of my commitment to ensuring technology serves humanity and contributes positively to society.
 
 ## 🏆 Competitive Achievements & Research Contributions
 
