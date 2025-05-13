@@ -1,4 +1,4 @@
-# Bryan C. 🐧​
+# Bryan C. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
 
 **`Machine Learning Engineer & Data Scientist @ Iliad Group | Free / Scaleway`**
 
