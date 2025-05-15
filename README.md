@@ -107,7 +107,7 @@ I am passionate about pushing the boundaries of AI and have actively participate
 *   **Impact of Knowledge Distillation for Model Interpretability (ICML Blog)**: Blog post on interpretability. ([Blog Post](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/))
 *   **Classifier-Free Diffusion Guidance (NeurIPS Review)**: Jointly training conditional/unconditional diffusion models. ([Report](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link))
 *   **Recommender Systems with Generative Retrieval (NeurIPS Presentation)**: TIGER, generative retrieval of item IDs. ([Presentation](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing))
-*   **Predicting Naturalness using Acoustic Indices**: Utilized scikit-maad, VGGish & PANNs.
+*   **Predicting Naturalness using Acoustic Indices**: Utilized scikit-maad, VGGish & PANNs. ([Code](https://github.com/jramassa/ListenToTheWild))
 *   **Neural Graph Generation conditioned on Text Descriptions**: Project at École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
 
 ---
