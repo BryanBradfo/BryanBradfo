@@ -24,12 +24,12 @@ class BryanC(ExcellentProgrammer):
     def __init__(self):
     
         self.country = "France 🇫🇷"
-        self.current_city = "Paris, France 🇫🇷"
+        self.current_city = "Paris, France"
         self.current_job = "Data Scientist & ML Engineer @ Iliad Group (Free / Scaleway)"
         self.past_experiences = ["Machine Learning Researcher @ NUS School of Computing",
                                  "Machine Learning Researcher @ CNRS"]
-        self.universities = ["École Polytechnique - France 🇫🇷",
-                             "ENSEEIHT (ENS Paris-Saclay) - France 🇫🇷"]
+        self.universities = ["École Polytechnique - France",
+                             "ENSEEIHT (ENS Paris-Saclay) - France"]
         self.passions = ["traveling", "exploring_cultures", "languages"]
         self.volunteer_engagements = ["AI Young Leader @ ITU (Paris-Hub) for AI for Good"]
 
@@ -95,7 +95,7 @@ Our approach is fundamentally **collaborative and field-driven**, ensuring that 
 I am passionate about pushing the boundaries of AI and have actively participated in data challenges and contributed to research.
 
 ### :trophy: Data Challenges & Competitions (Nov 2023 - Mar 2025)
-*   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Report](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
+*   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Code](https://github.com/ramp-kits/lwfa))
 *   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate & Report](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
 *   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
 *   **Rank 6/30**: EUROSAT classification with image classification DNNs. ([Notebook](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_original.ipynb))
