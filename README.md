@@ -54,7 +54,9 @@ class BryanC(ExcellentProgrammer):
 I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Data Scientist & Machine Learning Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Iliad Group!" width=250>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Free" width=250>
+&nbsp; 
+<img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=250>
 </h3>
 
 ### March 2024 - August 2024: Machine Learning Researcher @ NUS School of Computing
