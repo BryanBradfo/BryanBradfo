@@ -2,7 +2,7 @@
 
 **`Machine Learning Engineer & Data Scientist @ Iliad Group | Free / Scaleway`**
 
-_Applying AI to solve real-world problems. :)_ 
+_Engineering the intelligence in Artificial Intelligence. :)_ 
 
 ## About Me 🚀
 
