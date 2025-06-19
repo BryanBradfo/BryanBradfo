@@ -6,7 +6,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 
 ## About Me 🚀
 
-I am a **Computer Scientist** passionate about **Artificial Intelligence**, **Deep Learning**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer Scientist** passionate about **Artificial Intelligence**, **Deep Learning**, **MLOps** and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
@@ -135,8 +135,7 @@ I am passionate about pushing the boundaries of AI and have actively participate
           
 <br />
 <br />
-
-# 
+ 
 
 <h3 align="left">:earth_americas: Connect with me</h3>
 
