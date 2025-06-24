@@ -6,7 +6,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 
 ## About Me 🚀
 
-I am a **Computer Scientist** passionate about **Artificial Intelligence**, **Deep Learning**, **MLOps** and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer Scientist** passionate about **Artificial Intelligence**, **Deep Learning**, **MLOps** and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Researcher** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
@@ -51,7 +51,7 @@ class BryanC(ExcellentProgrammer):
 ## 💼 Recent Work Experiences
 
 ### NEW - April 2025: Data Scientist & Machine Learning Researcher @ Iliad Group | Free / Scaleway
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Data Scientist & Machine Learning Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Data Scientist & Machine Learning Researcher**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Free" width=250>
