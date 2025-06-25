@@ -92,7 +92,7 @@ In this capacity, I collaborate with the team to:
 
 Our approach is fundamentally **collaborative and field-driven**, ensuring that the solutions we explore are relevant and impactful. This engagement is a core part of my commitment to ensuring technology serves humanity and contributes positively to society.
 
-## 🏆 Competitive Achievements & Research Contributions
+## 🏆 Competitive Achievements & Research-Oriented Projects
 
 I am passionate about pushing the boundaries of AI and have actively participated in data challenges and contributed to research.
 
@@ -102,7 +102,7 @@ I am passionate about pushing the boundaries of AI and have actively participate
 *   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
 *   **Rank 6/30**: EUROSAT classification with image classification DNNs. ([Notebook](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_original.ipynb))
 
-### :scroll: Research Papers, Extensions & Presentations (Dec 2024 - Mar 2025)
+### :scroll: Research-Oriented Projects (Dec 2024 - Mar 2025)
 *   **CoVR-2 (AAAI Extension)**: Explored balanced, context-aware representations and better embeddings alignment. ([Paper](https://arxiv.org/abs/2308.14746))
 *   **Improving Vision Language Models**: Extended sparse attention vectors approach. ([Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
 *   **HYGENE: Diffusion-based Hypergraph Generation (AAAI Presentation)**: Hypergraph generation with diffusion. ([Report](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link))
