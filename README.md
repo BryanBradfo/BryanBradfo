@@ -74,7 +74,7 @@ As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I deve
 <!-- https://www.laas.fr/sites/default/files/inline-images/logo-laas-cnrs-quadri_0.jpg -->
 </h3>
 
-## 🌍 AI for Good: ITU Young Leader (Paris-Hub)
+## 🌍 AI for Good: ITU Young Leader (Hub of Paris)
 
 <p align="center">
       <img width="150" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
