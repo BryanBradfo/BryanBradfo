@@ -1,8 +1,23 @@
-# Bryan C. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
+# Bryan C. 
+
+<!---
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
+ -->
 
 **`Machine Learning Researcher & Data Scientist @ Iliad Group | Free / Scaleway`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
+
+<p align="center">
+<img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=250 height=125>
+&nbsp; 
+&nbsp; 
+<img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=200 height=125>
+&nbsp;
+&nbsp; 
+&nbsp; 
+<img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=200 height=125>
+</p>
 
 ## About Me 🚀
 
