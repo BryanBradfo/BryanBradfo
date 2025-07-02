@@ -12,7 +12,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 <a href="https://www.polytechnique.edu"><img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=250 height=125></a>
 &nbsp; 
 &nbsp; 
-<img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=200 height=125>
+<a href="https://www.nus.edu.sg/"><img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=200 height=125></a>
 &nbsp;
 &nbsp; 
 &nbsp; 
