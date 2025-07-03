@@ -89,7 +89,7 @@ As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I deve
 <!-- https://www.laas.fr/sites/default/files/inline-images/logo-laas-cnrs-quadri_0.jpg -->
 </h3>
 
-## 🌍 AI for Good: ITU Young Leader (Hub of Paris)
+## 🌍 Volunteering: AI for Good - ITU Young Leader (Hub of Paris)
 
 <p align="center">
   <!--<img width="200" alt="AI for Good Logo" src="https://upload.wikimedia.org/wikipedia/fr/e/e2/Itu-international_telecommunication_union-logo-blue.png"> -->
@@ -109,11 +109,11 @@ In this capacity, I collaborate with the team to:
 
 Our approach is fundamentally **collaborative and field-driven**, ensuring that the solutions we explore are relevant and impactful. This engagement is a core part of my commitment to ensuring technology serves humanity and contributes positively to society.
 
-## 🏆 Competitive Achievements & Research-Oriented Projects
+## :trophy: Competitive Achievements & Research-Oriented Projects
 
 I am passionate about pushing the boundaries of AI and have actively participated in data challenges and contributed to research.
 
-### :trophy: Data Challenges & Competitions (Nov 2023 - Mar 2025)
+### 🥇 Data Challenges & Competitions (Nov 2023 - Mar 2025)
 *   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Code](https://github.com/ramp-kits/lwfa))
 *   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate & Report](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
 *   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
@@ -130,6 +130,8 @@ I am passionate about pushing the boundaries of AI and have actively participate
 *   **Neural Graph Generation conditioned on Text Descriptions**: Project at École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
 
 ---
+<!---
+
 ### 🛠️ Language and Tools
 
 <img align='left' alt='Python' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -149,7 +151,6 @@ I am passionate about pushing the boundaries of AI and have actively participate
 <img align='left' alt='Java' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align='left' alt='SQL' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> 
 <img align='left' alt='Linux' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          
 <br />
 <br />
  
@@ -162,7 +163,9 @@ I am passionate about pushing the boundaries of AI and have actively participate
 
 <br />
 
+
 ---
+--->  
 
 <h3 align="left"> :pushpin: My Projects</h3>
 
