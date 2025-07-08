@@ -40,7 +40,7 @@ class BryanC(ExcellentProgrammer):
     
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
-        self.current_job = "Data Scientist & ML Engineer @ Iliad Group (Free / Scaleway)"
+        self.current_job = "ML Researcher & Data Scientist @ Iliad Group (Free / Scaleway)"
         self.past_experiences = ["Machine Learning Researcher @ NUS School of Computing",
                                  "Machine Learning Researcher @ CNRS"]
         self.universities = ["École Polytechnique - France",
