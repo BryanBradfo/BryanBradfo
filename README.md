@@ -81,7 +81,7 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 During my time at the **National University of Singapore (NUS) School of Computing** in **Singapore**, I worked as a **Machine Learning Researcher**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 
 <h3 align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=200>
+<a href="https://www.nus.edu.sg/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=200></a>
 </h3>
 
 ### June 2023 - August 2023: Machine Learning Researcher @ CNRS
