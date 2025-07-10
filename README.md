@@ -101,7 +101,7 @@ As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I deve
       <img width="150" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
 </p>
 
-As an **AI Young Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** programme. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
+As an **AI Young Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
 
 We believe that while AI is rapidly transforming our societies, it remains largely misunderstood. Our mission is to **democratize access to a rigorous, accessible, and deeply humanistic AI culture**. We aim to bridge the gap in understanding for students, non-specialist researchers, and citizens, thereby reducing confusion and fostering engagement.
 
