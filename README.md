@@ -65,8 +65,8 @@ class BryanC(ExcellentProgrammer):
 
 ## 💼 Recent Work Experiences
 
-### NEW - April 2025: Data Scientist & Machine Learning Researcher @ Iliad Group | Free / Scaleway
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Data Scientist & Machine Learning Researcher**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+### NEW - April 2025: Machine Learning Researcher & Data Scientist @ Iliad Group | Free / Scaleway
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Machine Learning Researcher & Data Scientist**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
 <a href="https://www.iliad.fr/fr"><img src="https://github.com/user-attachments/assets/41acad0f-5421-46a7-9ebb-f808012443ad" alt="Iliad Group" width=200></a>
