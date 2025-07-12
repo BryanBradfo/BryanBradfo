@@ -1,4 +1,4 @@
-# Bryan C. 
+# Bryan Chen 
 
 <!---
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
@@ -9,19 +9,19 @@
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
 <p align="center">
-<a href="https://www.polytechnique.edu"><img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=250 height=125></a>
+<a href="https://www.polytechnique.edu"><img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100></a>
 &nbsp; 
 &nbsp; 
-<a href="https://www.nus.edu.sg/"><img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=200 height=125></a>
+<a href="https://www.master-mva.com/"><img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=175 height=100></a>
 &nbsp;
 &nbsp; 
 &nbsp; 
-<a href="https://www.master-mva.com/"><img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=200 height=125></a>
+<a href="https://www.nus.edu.sg/"><img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=170 height=100></a>
 </p>
 
 ## About Me 🚀
 
-I am a **Computer Scientist** passionate about **Artificial Intelligence**, **Deep Learning**, **MLOps** and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Researcher** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Researcher** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
@@ -34,7 +34,7 @@ Outside of work, I love traveling to explore new countries and cultures. I am al
 from Persistence import Excellence
 from ComputerScience import ExcellentProgrammer
 
-class BryanC(ExcellentProgrammer):
+class BryanChen(ExcellentProgrammer):
 
     def __init__(self):
     
@@ -80,6 +80,8 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 ### March 2024 - August 2024: Machine Learning Researcher @ NUS School of Computing (NUS SoC)
 During my time at the **National University of Singapore (NUS) School of Computing** in **Singapore**, I worked as a **Machine Learning Researcher**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 
+&nbsp; 
+
 <h3 align="center">
 <a href="https://www.nus.edu.sg/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=200></a>
 </h3>
@@ -88,20 +90,14 @@ During my time at the **National University of Singapore (NUS) School of Computi
 As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
 
 <h3 align="center">
-<img src=https://www.expedition-med.org/wp-content/uploads/2020/07/logo-cnrs.png" alt="CNRS!" width=220>
-<!-- https://www.laas.fr/sites/default/files/inline-images/logo-laas-cnrs-quadri_0.jpg -->
+<img width="125" height="125" alt="Logo_Centre_national_de_la_recherche_scientifique_(2023-) svg" src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" />
 </h3>
 
-## 🌍 Volunteering: AI for Good - ITU Young Leader (Hub of Paris)
+## 👨‍💻 My Involvement in Volunteering
 
-<p align="center">
-  <!--<img width="200" alt="AI for Good Logo" src="https://upload.wikimedia.org/wikipedia/fr/e/e2/Itu-international_telecommunication_union-logo-blue.png"> -->
-      <img width="350" alt="AI for Good" src="https://s41721.pcdn.co/wp-content/uploads/2020/11/logo-aiforgood.png">
-      &nbsp; 
-      <img width="150" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
-</p>
+### 🌍 AI for Good - ITU Young AI Leader (Hub of Paris)
 
-As an **AI Young Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
+As an **Young AI Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
 
 We believe that while AI is rapidly transforming our societies, it remains largely misunderstood. Our mission is to **democratize access to a rigorous, accessible, and deeply humanistic AI culture**. We aim to bridge the gap in understanding for students, non-specialist researchers, and citizens, thereby reducing confusion and fostering engagement.
 
@@ -111,6 +107,13 @@ In this capacity, I collaborate with the team to:
 *   Develop concrete projects, such as our current exploration of a **solidarity chatbot** for individuals experiencing homelessness or extreme precarity.
 
 Our approach is fundamentally **collaborative and field-driven**, ensuring that the solutions we explore are relevant and impactful. This engagement is a core part of my commitment to ensuring technology serves humanity and contributes positively to society.
+
+<p align="center">
+  <!--<img width="200" alt="AI for Good Logo" src="https://upload.wikimedia.org/wikipedia/fr/e/e2/Itu-international_telecommunication_union-logo-blue.png"> -->
+      <img width="250" alt="AI for Good" src="https://s41721.pcdn.co/wp-content/uploads/2020/11/logo-aiforgood.png">
+      &nbsp; 
+      <img width="125" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
+</p>
 
 ## :trophy: Competitive Achievements & Research-Oriented Projects
 
