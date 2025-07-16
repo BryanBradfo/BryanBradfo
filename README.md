@@ -69,11 +69,11 @@ class BryanChen(ExcellentProgrammer):
 I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Machine Learning Researcher & Data Scientist**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
-<a href="https://www.iliad.fr/fr"><img src="https://github.com/user-attachments/assets/41acad0f-5421-46a7-9ebb-f808012443ad" alt="Iliad Group" width=125></a>
+<a href="https://www.iliad.fr/fr"><img src="https://github.com/user-attachments/assets/41acad0f-5421-46a7-9ebb-f808012443ad" alt="Iliad Group" width=100></a>
 &nbsp; 
 &nbsp; 
-<a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Free" width=165></a>
-<a href="https://www.scaleway.com/fr/"><img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=150></a>
+<a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Free" width=150></a>
+<a href="https://www.scaleway.com/fr/"><img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=135></a>
 </h3>
 
 ### March 2024 - August 2024: Machine Learning Researcher @ NUS School of Computing (NUS SoC)
@@ -109,7 +109,7 @@ Our approach is fundamentally **collaborative and field-driven**, ensuring that 
   <!--<img width="200" alt="AI for Good Logo" src="https://upload.wikimedia.org/wikipedia/fr/e/e2/Itu-international_telecommunication_union-logo-blue.png"> -->
       <img width="250" alt="AI for Good" src="https://s41721.pcdn.co/wp-content/uploads/2020/11/logo-aiforgood.png">
       &nbsp; 
-      <img width="125" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
+      <img width="85" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
 </p>
 
 ## :trophy: Competitive Achievements & Research-Oriented Projects
