@@ -9,19 +9,25 @@
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
 <p align="center">
-<a href="https://www.polytechnique.edu"><img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100></a>
+<a href="https://www.polytechnique.edu">
+ <img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100>
+</a>
 &nbsp; 
 &nbsp; 
-<a href="https://www.master-mva.com/"><img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=175 height=100></a>
+<a href="https://www.master-mva.com/">
+ <img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=175 height=100>
+</a>
 &nbsp;
 &nbsp; 
 &nbsp; 
-<a href="https://www.nus.edu.sg/"><img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=170 height=100></a>
+<a href="https://www.nus.edu.sg/">
+ <img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=170 height=100>
+</a>
 </p>
 
 ## About Me 🚀
 
-I am a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Researcher** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models for **signal quality mapping** to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Researcher** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuffs to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
@@ -40,13 +46,14 @@ class BryanChen(ExcellentProgrammer):
     
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
-        self.current_job = "ML Researcher & Data Scientist @ Iliad Group (Free / Scaleway)"
+        self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
         self.past_experiences = ["Machine Learning Researcher @ NUS School of Computing",
                                  "Machine Learning Researcher @ CNRS"]
         self.universities = ["École Polytechnique - France",
-                             "ENSEEIHT (ENS Paris-Saclay) - France"]
-        self.passions = ["traveling", "exploring_cultures", "languages"]
-        self.volunteer_engagements = ["AI Young Leader @ ITU (Paris-Hub) for AI for Good"]
+                             "ENSEEIHT - France",
+                             "ENS Paris-Saclay - France"]
+        self.passions = ["traveling", "exploring_cultures", "languages", "gyoza making"]
+        self.volunteer_engagements = ["Young AI Leader @ ITU (Paris-Hub) for AI for Good"]
 
     def im_interested_in(self):
         
@@ -54,7 +61,7 @@ class BryanChen(ExcellentProgrammer):
                 "computer_vision", "natural_language_processing", 
                 "generative_models", "model_compression", "responsible_ai"]
 
-    def goals_and_commitments(self)
+    def goals_and_commitments(self):
 
         return self.develop_impactful_ai_solutions() \\
                and self.advance_research_in(["machine_learning", "responsible_ai"]) \\
@@ -80,21 +87,23 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as a **Machine Learning Researcher**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 
 <h3 align="center">
-<a href="https://www.nus.edu.sg/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=175></a>
+<a href="https://www.nus.edu.sg/">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=175>
+</a>
 </h3>
 
 ### June 2023 - August 2023: Machine Learning Researcher @ CNRS
 As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
 
 <h3 align="center">
-<img width="125" height="125" alt="Logo_Centre_national_de_la_recherche_scientifique_(2023-) svg" src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" />
+<img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="100" height="100">
 </h3>
 
 ## 👨‍💻 My Involvement in Volunteering
 
 ### 🌍 AI for Good - ITU Young AI Leader (Hub of Paris)
 
-As an **Young AI Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
+As a **Young AI Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
 
 We believe that while AI is rapidly transforming our societies, it remains largely misunderstood. Our mission is to **democratize access to a rigorous, accessible, and deeply humanistic AI culture**. We aim to bridge the gap in understanding for students, non-specialist researchers, and citizens, thereby reducing confusion and fostering engagement.
 
