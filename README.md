@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
  -->
 
-**`Machine Learning Researcher & Data Scientist @ Iliad Group | Free / Scaleway`**
+**`ML Research Engineer & Data Scientist @ Iliad Group | Free / Scaleway`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
@@ -27,7 +27,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 
 ## About Me 🚀
 
-I am a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Researcher** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuffs to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a ML Research Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuffs to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
@@ -72,8 +72,8 @@ class BryanChen(ExcellentProgrammer):
 
 ## 💼 Recent Work Experiences
 
-### NEW - April 2025: Machine Learning Researcher & Data Scientist @ Iliad Group | Free / Scaleway
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Machine Learning Researcher & Data Scientist**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+### NEW - April 2025: ML Research Engineer @ Iliad Group | Free / Scaleway
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Research Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
 <a href="https://www.iliad.fr/fr"><img src="https://github.com/user-attachments/assets/41acad0f-5421-46a7-9ebb-f808012443ad" alt="Iliad Group" width=100></a>
