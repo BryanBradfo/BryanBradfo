@@ -4,26 +4,23 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
  -->
 
-**`ML Research Engineer & Data Scientist @ Iliad Group | Free / Scaleway`**
+**`ML Research Engineer @ Iliad Group | Free / Scaleway`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
+<!---
 <p align="center">
 <a href="https://www.polytechnique.edu">
  <img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100>
 </a>
-&nbsp; 
-&nbsp; 
 <a href="https://www.master-mva.com/">
  <img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=175 height=100>
 </a>
-&nbsp;
-&nbsp; 
-&nbsp; 
-<a href="https://www.nus.edu.sg/">
- <img src=https://fundit.fr/sites/default/files/styles/max_650x650/public/actors/2708-universite-nationale-singapour-nus.png?itok=sopLEh5n width=170 height=100>
+<a href="">
+ <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s width=100 height=100>
 </a>
 </p>
+-->
 
 ## About Me 🚀
 
@@ -47,8 +44,9 @@ class BryanChen(ExcellentProgrammer):
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
         self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
-        self.past_experiences = ["Machine Learning Researcher @ NUS School of Computing",
-                                 "Machine Learning Researcher @ CNRS"]
+        self.past_experiences = ["ML Research Engineer @ NUS School of Computing",
+                                 "ML Research Engineer @ CNRS",
+                                 "ML Research Engineer @ LAAS-CNRS"]
         self.universities = ["École Polytechnique - France",
                              "ENSEEIHT - France",
                              "ENS Paris-Saclay - France"]
@@ -76,8 +74,10 @@ class BryanChen(ExcellentProgrammer):
 I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Research Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
-<a href="https://www.iliad.fr/fr"><img src="https://github.com/user-attachments/assets/41acad0f-5421-46a7-9ebb-f808012443ad" alt="Iliad Group" width=125></a>
-<a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Free_logo.svg" alt="Free" width=175></a>
+<a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=125></a>
+ &nbsp;
+ &nbsp;
+<a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Free_logo.svg/2560px-Free_logo.svg.png" alt="Free" width=150></a>
 <!---
 <a href="https://www.scaleway.com/fr/"><img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=135></a>
 -->
@@ -85,8 +85,8 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
  <a href="https://www.scaleway.com/fr/"><img src="https://github.com/user-attachments/assets/6a2ffc97-8ea3-477e-895b-4cdfa721234e" alt="Scaleway" width=215></a>
 </h3>
 
-### March 2024 - August 2024: Machine Learning Researcher @ NUS School of Computing (NUS SoC)
-During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as a **Machine Learning Researcher**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
+### March 2024 - August 2024: ML Research Engineer @ NUS School of Computing (NUS SoC)
+During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as a **ML Research Engineer**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 
 <h3 align="center">
 <a href="https://www.nus.edu.sg/">
@@ -94,8 +94,8 @@ During my time at the **National University of Singapore (NUS) School of Computi
 </a>
 </h3>
 
-### June 2023 - August 2023: Machine Learning Researcher @ CNRS
-As a **Machine Learning Researcher** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
+### June 2023 - August 2023: ML Research Engineer @ CNRS
+As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
 
 <h3 align="center">
 <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="100" height="100">
@@ -197,6 +197,7 @@ I'm always excited to take on new challenges in AI research and application. If 
 <h3 align="center">Thanks for your visit! Feel free to explore my repositories! :)</h3>
 
 <h3 align="center">
-<img src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" alt="AI & Innovation" width=200>
+ <img src="https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe" alt="Software Engineer" width=200>
+<!-- <img src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" alt="AI & Innovation" width=200> -->
 <!-- https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe -->
 </h3>
