@@ -4,23 +4,23 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
  -->
 
-**`ML Research Engineer @ Iliad Group | Free / Scaleway`**
+**`ML Research Engineer @ Iliad Group`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
-<!---
 <p align="center">
 <a href="https://www.polytechnique.edu">
  <img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100>
 </a>
+<!---
 <a href="https://www.master-mva.com/">
  <img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=175 height=100>
 </a>
+--->
 <a href="">
  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s width=100 height=100>
 </a>
 </p>
--->
 
 ## About Me 🚀
 
@@ -101,7 +101,7 @@ As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed a
 <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="100" height="100">
 </h3>
 
-## 👨‍💻 My Involvement in Volunteering
+## 👨‍💻 Volunteering
 
 ### 🌍 AI for Good - ITU Young AI Leader (Hub of Paris)
 
@@ -129,7 +129,7 @@ I am passionate about pushing the boundaries of AI and have actively participate
 
 ### 🥇 Data Challenges & Competitions (Nov 2023 - Mar 2025)
 *   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Code](https://github.com/ramp-kits/lwfa))
-*   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate & Report](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
+*   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
 *   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
 *   **Rank 6/30**: EUROSAT classification with image classification DNNs. ([Notebook](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_original.ipynb))
 
@@ -181,7 +181,7 @@ I am passionate about pushing the boundaries of AI and have actively participate
 ---
 --->  
 
-<h3 align="left"> :pushpin: My Projects</h3>
+<h3 align="left"> :pushpin: Projects</h3>
 
 <p align="left">
 I've undertaken numerous projects spanning a diverse range of fields, including internships, research endeavors, academic coursework, and competitive data challenges. These are consolidated into repositories on my GitHub. You'll discover a wide variety of subjects within, including Deep Learning, Optimization, Mathematics, Software Development and Algorithms, among others!
