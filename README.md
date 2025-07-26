@@ -45,7 +45,7 @@ class BryanChen(ExcellentProgrammer):
         self.current_city = "Paris, France"
         self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
         self.past_experiences = ["ML Research Engineer @ NUS School of Computing",
-                                 "ML Research Engineer @ CNRS",
+                                 "ML Research Engineer a@ CNRS",
                                  "ML Research Engineer @ LAAS-CNRS"]
         self.universities = ["École Polytechnique - France",
                              "ENSEEIHT - France",
@@ -83,6 +83,24 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 -->
 &nbsp; 
  <a href="https://www.scaleway.com/fr/"><img src="https://github.com/user-attachments/assets/6a2ffc97-8ea3-477e-895b-4cdfa721234e" alt="Scaleway" width=215></a>
+</h3>
+
+### September 2024 - March 2025: ML Research Engineer @ École Polytechnique
+During my time at **École Polytechnique**, in **Palaiseau**, I worked as a **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
+
+<h3 align="center">
+<a href="https://www.polytechnique.edu">
+ <img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100>
+</a>
+</h3>
+
+### Dec 2024 - Mar 2025: ML Research Engineer @ ENS Ulm
+During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I work as a **ML Research Engineer**, extending **CoVR** and **CoVR-2** research papers. My work focused on enhancing models for composed video retrieval by exploring more balanced and context-aware multimodal representations. I proposed and implemented a novel loss function and an MLP architecture to improve the alignment between visual and textual embeddings, leading to more discriminative and robust retrieval performance. ([See Paper](https://arxiv.org/abs/2308.14746))
+
+<h3 align="center">
+<a href="https://www.ens.psl.eu/">
+ <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="125">
+</a>
 </h3>
 
 ### March 2024 - August 2024: ML Research Engineer @ NUS School of Computing (NUS SoC)
@@ -127,15 +145,13 @@ Our approach is fundamentally **collaborative and field-driven**, ensuring that 
 
 I am passionate about pushing the boundaries of AI and have actively participated in data challenges and contributed to research.
 
-### 🥇 Data Challenges & Competitions (Nov 2023 - Mar 2025)
+### 🥇 Data Challenges & Competitions (November 2023 - March 2025)
 *   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Code](https://github.com/ramp-kits/lwfa))
 *   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
 *   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
 *   **Rank 6/30**: EUROSAT classification with image classification DNNs. ([Notebook](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_original.ipynb))
 
-### :scroll: Research-Oriented Projects (Dec 2024 - Mar 2025)
-*   **CoVR-2 (AAAI Extension)**: Explored balanced, context-aware representations and better embeddings alignment. ([Paper](https://arxiv.org/abs/2308.14746))
-*   **Improving Vision Language Models**: Extended sparse attention vectors approach. ([Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
+### :scroll: Research-Oriented Projects (December 2024 - March 2025)
 *   **HYGENE: Diffusion-based Hypergraph Generation (AAAI Presentation)**: Hypergraph generation with diffusion. ([Report](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link))
 *   **Impact of Knowledge Distillation for Model Interpretability (ICML Blog)**: Blog post on interpretability. ([Blog Post](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/))
 *   **Classifier-Free Diffusion Guidance (NeurIPS Review)**: Jointly training conditional/unconditional diffusion models. ([Report](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link))
