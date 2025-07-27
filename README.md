@@ -44,7 +44,7 @@ class BryanChen(ExcellentProgrammer):
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
         self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
-        self.past_experiences = ["ML Research Engineer @ NUS School of Computing",
+        self.past_experiences = ["ML Research Engineer @ NUS School of Computing (SoC)",
                                  "ML Research Engineer a@ CNRS",
                                  "ML Research Engineer @ LAAS-CNRS"]
         self.universities = ["École Polytechnique - France",
