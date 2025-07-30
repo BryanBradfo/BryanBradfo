@@ -160,6 +160,35 @@ I am passionate about pushing the boundaries of AI and have actively participate
 *   **Neural Graph Generation conditioned on Text Descriptions**: Project at École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
 
 ---
+
+## 📚 Education & Certifications
+
+<p align="center">
+  <a href="https://www.harvard.edu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/200px-Harvard_University_logo.svg.png" alt="Harvard University Logo" width="250">
+  </a>
+</p>
+
+I have supplemented my formal education by completing several of Harvard University's renowned CS50 courses, which have provided me with a robust foundation in computer science and artificial intelligence.
+
+### CS50x: Introduction to Computer Science
+This foundational course provided a comprehensive introduction to the intellectual enterprises of computer science and the art of programming.
+
+*   **Projects**: Completed a series of problem sets inspired by real-world domains like cryptography, finance, and forensics. These projects involved building applications in C, Python, and JavaScript, and culminated in a final project of my own design.
+*   **Skills Learned**: Algorithmic thinking, problem-solving, data structures, abstraction, and web development. I gained proficiency in languages such as C, Python, SQL, JavaScript, HTML, and CSS.
+
+### CS50P: Introduction to Programming with Python
+This course offered a deep dive into Python, focusing on everything from fundamental syntax to advanced programming paradigms.
+
+*   **Projects**: Developed a variety of programs that required implementing functions, handling exceptions, writing unit tests, and working with libraries. The course concluded with a final project where I designed and built a substantial piece of software in Python.
+*   **Skills Learned**: Strong Python proficiency, including object-oriented programming, regular expressions, file I/O, and test-driven development using `pytest`.
+
+### CS50AI: Introduction to Artificial Intelligence with Python
+This course explored the concepts and algorithms at the foundation of modern artificial intelligence.
+
+*   **Projects**: Implemented hands-on projects based on graph search algorithms, reinforcement learning, machine learning, and natural language processing. I built programs for technologies like game-playing engines and machine translation.
+*   **Skills Learned**: Gained expertise in AI concepts such as search algorithms (A*, minimax), knowledge representation, probabilistic reasoning, optimization, and machine learning. I also became experienced with relevant Python libraries like TensorFlow and scikit-learn.
+
 <!---
 
 ### 🛠️ Language and Tools
