@@ -44,9 +44,10 @@ class BryanChen(ExcellentProgrammer):
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
         self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
-        self.past_experiences = ["ML Research Engineer @ NUS School of Computing (SoC)",
-                                 "ML Research Engineer a@ CNRS",
-                                 "ML Research Engineer @ LAAS-CNRS"]
+        self.past_experiences = ["Machine Learning Research Engineer @ Ecole Normale Supérieure (ENS) Paris",
+                                 "Machine Learning Research Engineer @ NUS School of Computing (SoC)",
+                                 "Machine Learning Research Engineer @ CNRS",
+                                 "Machine Learning Research Engineer @ LAAS-CNRS"]
         self.universities = ["École Polytechnique - France",
                              "ENSEEIHT - France",
                              "ENS Paris-Saclay - France"]
@@ -70,7 +71,7 @@ class BryanChen(ExcellentProgrammer):
 
 ## 💼 Recent Work Experiences
 
-### NEW - April 2025: ML Research Engineer @ Iliad Group | Free / Scaleway
+### NEW - April 2025: Machine Learning Research Engineer @ Iliad Group | Free / Scaleway
 I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Research Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
@@ -85,7 +86,7 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
  <a href="https://www.scaleway.com/fr/"><img src="https://github.com/user-attachments/assets/6a2ffc97-8ea3-477e-895b-4cdfa721234e" alt="Scaleway" width=215></a>
 </h3>
 
-### September 2024 - March 2025: ML Research Engineer @ École Polytechnique
+### September 2024 - March 2025: Machine Learning Research Engineer @ École Polytechnique
 During my time at **École Polytechnique**, in **Palaiseau**, I worked as a **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
 
 <h3 align="center">
@@ -94,16 +95,16 @@ During my time at **École Polytechnique**, in **Palaiseau**, I worked as a **ML
 </a>
 </h3>
 
-### Dec 2024 - Mar 2025: ML Research Engineer @ ENS Ulm
+### Dec 2024 - Mar 2025: Machine Learning Research Engineer @ ENS Ulm
 During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I work as a **ML Research Engineer**, extending **CoVR** and **CoVR-2** research papers. My work focused on enhancing models for composed video retrieval by exploring more balanced and context-aware multimodal representations. I proposed and implemented a novel loss function and an MLP architecture to improve the alignment between visual and textual embeddings, leading to more discriminative and robust retrieval performance. ([See Paper](https://arxiv.org/abs/2308.14746))
 
 <h3 align="center">
 <a href="https://www.ens.psl.eu/">
- <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="125">
+ <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="100">
 </a>
 </h3>
 
-### March 2024 - August 2024: ML Research Engineer @ NUS School of Computing (NUS SoC)
+### March 2024 - August 2024: Machine Learning Research Engineer @ NUS School of Computing (NUS SoC)
 During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as a **ML Research Engineer**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 
 <h3 align="center">
@@ -112,7 +113,7 @@ During my time at the **National University of Singapore (NUS) School of Computi
 </a>
 </h3>
 
-### June 2023 - August 2023: ML Research Engineer @ CNRS
+### June 2023 - August 2023: Machine Learning Research Engineer @ CNRS
 As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
 
 <h3 align="center">
