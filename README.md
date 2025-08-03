@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
  -->
 
-**`ML Research Engineer @ Iliad Group`**
+**`Machine Learning Research Engineer & Data Scientist @ Iliad Group`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
@@ -24,7 +24,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 
 ## About Me 🚀
 
-I am a **Computer Scientist** & **Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a ML Research Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuffs to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer Scientist** & **Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Research Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>
@@ -44,11 +44,12 @@ class BryanChen(ExcellentProgrammer):
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
         self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
-        self.past_experiences = ["Machine Learning Research Engineer @ Ecole Normale Supérieure (ENS) Paris",
+        self.past_experiences = ["Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris"
+                                 "Machine Learning Research Engineer @ École Normale Supérieure (ENS) Paris",
                                  "Machine Learning Research Engineer @ NUS School of Computing (SoC)",
                                  "Machine Learning Research Engineer @ CNRS",
                                  "Machine Learning Research Engineer @ LAAS-CNRS"]
-        self.universities = ["École Polytechnique - France",
+        self.universities = ["École Polytechnique (Institut Polytechnique de Paris) - France",
                              "ENSEEIHT - France",
                              "ENS Paris-Saclay - France"]
         self.passions = ["traveling", "exploring_cultures", "languages", "gyoza making"]
