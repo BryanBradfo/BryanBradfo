@@ -47,7 +47,7 @@ class BryanChen(ExcellentProgrammer):
     
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
-        self.current_job = "AI Applied Engineer @ Iliad Group (Free / Scaleway)"
+        self.current_job = "AI Applied Engineer @ Iliad Group (Free, Scaleway & Kyutai)"
         self.past_experiences = ["CS50 Student @ Harvard University - Cambridge, USA"
                                  "Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris, FR"
                                  "Machine Learning Research Engineer @ École Normale Supérieure (ENS) Paris, FR",
@@ -77,7 +77,7 @@ class BryanChen(ExcellentProgrammer):
 
 ## 💼 Recent Work Experiences
 
-### NEW - April 2025: Machine Learning Research Engineer @ Iliad Group | Free / Scaleway
+### NEW - April 2025: Machine Learning Research Engineer @ Iliad Group | Free, Scaleway & Kyutai
 I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Research Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
@@ -88,9 +88,11 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 <!---
 <a href="https://www.scaleway.com/fr/"><img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=135></a>
 -->
+<!---
 &nbsp; 
  <a href="https://www.scaleway.com/fr/"><img src="https://github.com/user-attachments/assets/6a2ffc97-8ea3-477e-895b-4cdfa721234e" alt="Scaleway" width=215></a>
 </h3>
+-->
 
 ### September 2024 - March 2025: Machine Learning Research Engineer @ École Polytechnique
 During my time at **École Polytechnique**, in **Palaiseau**, I worked as a **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
@@ -168,13 +170,9 @@ I am passionate about pushing the boundaries of AI and have actively participate
 
 ---
 
-## 📚 Education & Certifications
+## 📚 Certifications
 
-<p align="center">
-  <a href="https://www.harvard.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/200px-Harvard_University_logo.svg.png" alt="Harvard University Logo" width="250">
-  </a>
-</p>
+### Harvard University (CS50 Student)
 
 I have supplemented my formal education by completing several of Harvard University's renowned CS50 courses, which have provided me with a robust foundation in computer science and artificial intelligence.
 
@@ -195,6 +193,32 @@ This course explored the concepts and algorithms at the foundation of modern art
 
 *   **Projects**: Implemented hands-on projects based on graph search algorithms, reinforcement learning, machine learning, and natural language processing. I built programs for technologies like game-playing engines and machine translation.
 *   **Skills Learned**: Gained expertise in AI concepts such as search algorithms (A*, minimax), knowledge representation, probabilistic reasoning, optimization, and machine learning. I also became experienced with relevant Python libraries like TensorFlow and scikit-learn.
+
+<p align="center">
+  <a href="https://www.harvard.edu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/200px-Harvard_University_logo.svg.png" alt="Harvard University" width="250">
+  </a>
+</p>
+
+### Stanford University (Visiting Student)
+
+As a **Visiting Student** from September 2023 to October 2024, I had the opportunity to follow some of Stanford's world-class courses in Computer Science and Artificial Intelligence. The courses I followed include:
+*   **CS106A**: Programming Methodology
+*   **CS109**: Probability for Computer Scientists
+*   **CS149**: Parallel Computing
+*   **CS224N**: Natural Language Processing with Deep Learning
+*   **CS229**: Machine Learning
+*   **CS230**: Deep Learning
+*   **CS234**: Reinforcement Learning
+*   **CS236**: Deep Generative Models
+*   **CS336**: Language Modeling from Scratch
+*   **CS25**: V{1,2,3,4,5}
+
+<p align="center">
+  <a href="https://www.stanford.edu">
+    <img src="https://logo-marque.com/wp-content/uploads/2021/10/Stanford-Symbole.jpg" alt="Stanford University" width="220">
+  </a>
+</p>
 
 <!---
 
