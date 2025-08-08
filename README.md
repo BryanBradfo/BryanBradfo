@@ -44,9 +44,10 @@ class BryanChen(ExcellentProgrammer):
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
         self.current_job = "AI Applied Engineer @ Iliad Group (Free, Scaleway & Kyutai)"
-        self.past_experiences = ["CS50 Student @ Harvard University - Cambridge, USA"
-                                 "Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris, FR"
+        self.past_experiences = ["CS50 Student @ Harvard University - Cambridge, USA",
+                                 "Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris, FR",
                                  "Machine Learning Research Engineer @ École Normale Supérieure (ENS) Paris, FR",
+                                 "Visiting Student @ Stanford University - California, USA",
                                  "Machine Learning Research Engineer @ NUS School of Computing (SoC), SG",
                                  "Machine Learning Research Engineer @ CNRS, FR",
                                  "Machine Learning Research Engineer @ LAAS-CNRS, FR"]
