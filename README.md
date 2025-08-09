@@ -12,9 +12,11 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 <a href="https://www.polytechnique.edu">
  <img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100>
 </a>
+ <!--
 <a href="https://www.master-mva.com/">
  <img src=https://github.com/user-attachments/assets/a4bd7548-d6b7-44be-b19b-f029db8cec68  width=175 height=100>
 </a>
+ --->
 <a href="">
  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s width=100 height=100>
 </a>
