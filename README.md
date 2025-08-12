@@ -4,7 +4,7 @@
 --->
 ![kirby](https://github.com/user-attachments/assets/b34a5b26-8e4a-4813-9b40-76dd430e549c)
 
-**`Machine Learning Research Engineer & Data Scientist @ Iliad Group`**
+**`Machine Learning Engineer & Data Scientist @ Iliad Group`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
@@ -45,7 +45,7 @@ class BryanChen(ExcellentProgrammer):
     
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
-        self.current_job = "AI Applied Engineer @ Iliad Group (Free, Scaleway & Kyutai)"
+        self.current_job = "Machine Learning Engineer @ Iliad Group (Free, Scaleway & Kyutai)"
         self.past_experiences = ["CS50 Student @ Harvard University - Cambridge, USA",
                                  "Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris, FR",
                                  "Machine Learning Research Engineer @ École Normale Supérieure (ENS) Paris, FR",
@@ -76,8 +76,8 @@ class BryanChen(ExcellentProgrammer):
 
 ## 💼 Recent Work Experiences
 
-### NEW - April 2025: Machine Learning Research Engineer @ Iliad Group | Free, Scaleway & Kyutai
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Research Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+### NEW - April 2025: Machine Learning Engineer @ Iliad Group | Free, Scaleway & Kyutai
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Machine Learning Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
 <a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=125></a>
