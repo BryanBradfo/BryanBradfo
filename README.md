@@ -107,7 +107,7 @@ During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I wo
 
 <h3 align="center">
 <a href="https://www.ens.psl.eu/">
- <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="100">
+ <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="80">
 </a>
 </h3>
 
