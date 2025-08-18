@@ -45,7 +45,7 @@ class BryanChen(ExcellentProgrammer):
     
         self.country = "France 🇫🇷"
         self.current_city = "Paris, France"
-        self.current_job = "Machine Learning Engineer @ Iliad Group (Free, Scaleway & Kyutai)"
+        self.current_job = "Machine Learning Engineer @ Iliad Group (Free & Scaleway)"
         self.past_experiences = ["CS50 Student @ Harvard University - Cambridge, USA",
                                  "Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris, FR",
                                  "Machine Learning Research Engineer @ École Normale Supérieure (ENS) Paris, FR",
