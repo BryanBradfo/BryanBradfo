@@ -22,7 +22,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 </a>
 </p>
 
-## About Me 🚀
+## **About Me 🚀**
 
 I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
@@ -72,18 +72,17 @@ class BryanChen(ExcellentProgrammer):
                and self.contribute_to_open_source() \\
                and Excellence("everything")
 ```
----
 
-## 💼 Recent Work Experiences
+## **Work Experiences 💼**
 
 ### NEW - April 2025: Machine Learning Engineer @ Iliad Group | Free & Scaleway
 I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Machine Learning Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
-<a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=125></a>
+<a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=115></a>
  &nbsp;
  &nbsp;
-<a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Free_logo.svg/2560px-Free_logo.svg.png" alt="Free" width=150></a>
+<a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Free_logo.svg/2560px-Free_logo.svg.png" alt="Free" width=140></a>
 <!---
 <a href="https://www.scaleway.com/fr/"><img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=135></a>
 -->
@@ -116,7 +115,7 @@ During my time at the **National University of Singapore (NUS) School of Computi
 
 <h3 align="center">
 <a href="https://www.nus.edu.sg/">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=175>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=165>
 </a>
 </h3>
 
@@ -127,51 +126,30 @@ As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed a
 <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="100" height="100">
 </h3>
 
-## 👨‍💻 Volunteering
+## Generative Artificial Intelligence Projects (November 2023 - March 2025) 💻​
+*   **HYGENE: Diffusion-based Hypergraph Generation (AAAI)**: Implementing hypergraph generation with diffusion. ([Report](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link))
+*   **Impact of Knowledge Distillation for Model Interpretability (ICML)**: Teaching model interpretability impact after Knowledge Distillation. ([Blog Post](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/))
+*   **Mean Arterial Pressure (MAP) Prediction with ECG and PPG signals**: Predicting MAP with ECG and PPG signals in a domain adaptation context, project @ Inria. ([Code](https://github.com/ramp-kits/lwfa))
+*   **Groundwater Level Prediction**: Predicting groundwater level, project @ Hi!Paris & @ Inria. ([Certificate](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
+*   **Neural Graph Generation conditioned on Text Descriptions**: Developing a sophisticated Neural Graph Generator capable of creating complex graph structures from natural language descriptions, project @ École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
+*   **ImageNet-sketch Classification**: Classifying sketch, project @ ENS Ulm. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view))
+*   **Classifier-Free Diffusion Guidance (NeurIPS)**: Jointly training conditional/unconditional diffusion models. ([Report](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link))
+*   **Recommender Systems with Generative Retrieval (NeurIPS)**: TIGER, generative retrieval of item IDs. ([Presentation](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing))
+*   **Unifying GANs and Score-Based Diffusion as Generative Particle Models (NeurIPS)**: Score GAN & Discriminator Flow, the unification of GANs and Score-Based Diffusion under one particle evolution framework. ([Presentation](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing))
+*   **Predicting Naturalness using Acoustic Indices**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs. ([Code](https://github.com/jramassa/ListenToTheWild))
+*   **EuroSAT Image Classification**: Classifying geospatial images, project @ Météo France ([Report](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf))
 
-### 🌍 AI for Good - ITU Young AI Leader (Hub of Paris)
+## **Additional Education 🎓**​
 
-As a **Young AI Leader for the International Telecommunication Union (ITU) at the Paris-Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good.
+![harvard](https://www.freecodecamp.org/news/content/images/2020/06/cs50largest.jpeg)
 
-We believe that while AI is rapidly transforming our societies, it remains largely misunderstood. Our mission is to **democratize access to a rigorous, accessible, and deeply humanistic AI culture**. We aim to bridge the gap in understanding for students, non-specialist researchers, and citizens, thereby reducing confusion and fostering engagement.
-
-In this capacity, I collaborate with the team to:
-*   **Engage with local organizations** to understand their on-the-ground realities and needs.
-*   Explore how AI technology can modestly **contribute to supporting their missions**.
-*   Develop concrete projects, such as our current exploration of a **solidarity chatbot** for individuals experiencing homelessness or extreme precarity.
-
-Our approach is fundamentally **collaborative and field-driven**, ensuring that the solutions we explore are relevant and impactful. This engagement is a core part of my commitment to ensuring technology serves humanity and contributes positively to society.
+### CS50 Student @ Harvard University
 
 <p align="center">
-  <!--<img width="200" alt="AI for Good Logo" src="https://upload.wikimedia.org/wikipedia/fr/e/e2/Itu-international_telecommunication_union-logo-blue.png"> -->
-      <img width="250" alt="AI for Good" src="https://s41721.pcdn.co/wp-content/uploads/2020/11/logo-aiforgood.png">
-      &nbsp; 
-      <img width="85" alt="AI for Good Logo" src="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png"> 
+  <a href="https://www.harvard.edu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/200px-Harvard_University_logo.svg.png" alt="Harvard University" width="250">
+  </a>
 </p>
-
-## :trophy: Competitive Achievements & Research-Oriented Projects
-
-I am passionate about pushing the boundaries of AI and have actively participated in data challenges and contributed to research.
-
-### 🥇 Data Challenges & Competitions (November 2023 - March 2025)
-*   **Rank 1/178**: Inria & APHP - Mean Arterial Pressure (MAP) prediction with ECG and PPG signals. ([Code](https://github.com/ramp-kits/lwfa))
-*   **Rank 2/148**: Inria & Hi!Paris - Groundwater level prediction. ([Certificate](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
-*   **Rank 4/87**: MVA RecVis 2024 - ImageNet-sketch classification. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view?usp=drive_link))
-*   **Rank 6/30**: EUROSAT classification with image classification DNNs. ([Notebook](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_original.ipynb))
-
-### :scroll: Research-Oriented Projects (December 2024 - March 2025)
-*   **HYGENE: Diffusion-based Hypergraph Generation (AAAI Presentation)**: Hypergraph generation with diffusion. ([Report](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link))
-*   **Impact of Knowledge Distillation for Model Interpretability (ICML Blog)**: Blog post on interpretability. ([Blog Post](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/))
-*   **Classifier-Free Diffusion Guidance (NeurIPS Review)**: Jointly training conditional/unconditional diffusion models. ([Report](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link))
-*   **Recommender Systems with Generative Retrieval (NeurIPS Presentation)**: TIGER, generative retrieval of item IDs. ([Presentation](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing))
-*   **Predicting Naturalness using Acoustic Indices**: Utilized scikit-maad, VGGish & PANNs. ([Code](https://github.com/jramassa/ListenToTheWild))
-*   **Neural Graph Generation conditioned on Text Descriptions**: Project at École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
-
----
-
-## 📚 Certifications
-
-### Harvard University (CS50 Student)
 
 I have supplemented my formal education by completing several of Harvard University's renowned CS50 courses, which have provided me with a robust foundation in computer science and artificial intelligence.
 
@@ -193,13 +171,15 @@ This course explored the concepts and algorithms at the foundation of modern art
 *   **Projects**: Implemented hands-on projects based on graph search algorithms, reinforcement learning, machine learning, and natural language processing. I built programs for technologies like game-playing engines and machine translation.
 *   **Skills Learned**: Gained expertise in AI concepts such as search algorithms (A*, minimax), knowledge representation, probabilistic reasoning, optimization, and machine learning. I also became experienced with relevant Python libraries like TensorFlow and scikit-learn.
 
+![stanford](https://letemps-17455.kxcdn.com/photos/e841f470-58e7-4507-a9c2-974a3779180c/small)
+
+### Visiting Student @ Stanford University
+
 <p align="center">
-  <a href="https://www.harvard.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/200px-Harvard_University_logo.svg.png" alt="Harvard University" width="250">
+  <a href="https://www.stanford.edu">
+    <img src="https://logo-marque.com/wp-content/uploads/2021/10/Stanford-Symbole.jpg" alt="Stanford University" width="220">
   </a>
 </p>
-
-### Stanford University (Visiting Student)
 
 As a **Visiting Student** from September 2023 to October 2024, I had the opportunity to follow some of Stanford's world-class courses in Computer Science and Artificial Intelligence. The courses I followed include:
 *   **CS106A**: Programming Methodology
@@ -212,12 +192,6 @@ As a **Visiting Student** from September 2023 to October 2024, I had the opportu
 *   **CS236**: Deep Generative Models
 *   **CS336**: Language Modeling from Scratch
 *   **CS25**: V{1,2,3,4,5}
-
-<p align="center">
-  <a href="https://www.stanford.edu">
-    <img src="https://logo-marque.com/wp-content/uploads/2021/10/Stanford-Symbole.jpg" alt="Stanford University" width="220">
-  </a>
-</p>
 
 <!---
 
@@ -256,20 +230,31 @@ As a **Visiting Student** from September 2023 to October 2024, I had the opportu
 ---
 --->  
 
-<h3 align="left"> :pushpin: Projects</h3>
+## **Volunteering @ United Nations - ITU Young AI Leader (AI for Good - Paris) 🌍**
 
-<p align="left">
-I've undertaken numerous projects spanning a diverse range of fields, including internships, research endeavors, academic coursework, and competitive data challenges. These are consolidated into repositories on my GitHub. You'll discover a wide variety of subjects within, including Deep Learning, Optimization, Mathematics, Software Development and Algorithms, among others!
+<p align="center">
+      <img width="250" alt="AI for Good Logo" src="https://i.pinimg.com/736x/ca/d6/2a/cad62affc93923f36412e3558469463f.jpg"> 
 </p>
 
-## Looking forward to...
+As a **Young AI Leader for the International Telecommunication Union (ITU) at the Paris Hub**, I am actively involved in the **United Nations' AI for Good** program. Our team, the **Young AI Leaders of Paris**, is a group of dedicated young volunteers committed to promoting an **ethical, responsible, and human-centric artificial intelligence** for the common good. Our mission is to **democratize access to a rigorous, accessible, and deeply humanistic AI culture**. We aim to bridge the gap in understanding for students, non-specialist researchers, and citizens, thereby reducing confusion and fostering engagement. In this capacity, I collaborate with the team to:
+*   **Engage with local organizations** to understand their on-the-ground realities and needs.
+*   Explore how AI technology can modestly **contribute to supporting their missions**.
+*   Develop concrete projects, such as our current exploration of a **solidarity chatbot** for individuals experiencing homelessness or extreme precarity.
+
+## **Projects  :pushpin:**
+
+<p align="left">
+I've undertaken numerous projects spanning a diverse range of fields, including internships, research endeavors, academic coursework, and competitive data challenges. These are consolidated into repositories on my GitHub. You'll discover a wide variety of subjects within, including Deep Learning, Optimization, Mathematics, Software Development, and Algorithms, among others!
+</p>
+
+## **Looking forward to...**
 
 I'm always excited to take on new challenges in AI research and application. If you have an interesting project, a research idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things AI :)
 
 
 #
 
-<h3 align="center">Thanks for your visit! Feel free to explore my repositories! :)</h3>
+<h3 align="center">Feel free to explore my repositories! :)</h3>
 
 <h3 align="center">
  <img src="https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe" alt="Software Engineer" width=200>
