@@ -1,10 +1,10 @@
-# Bryan Chen 
+# Bryan Chen
 <!---
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Coding addiction" width=110>
 --->
 ![kirby](https://github.com/user-attachments/assets/b34a5b26-8e4a-4813-9b40-76dd430e549c)
 
-**`Machine Learning Engineer & Data Scientist @ Iliad Group`**
+**`Low-Ego Joyful Machine Learning Engineer & Data Scientist @ Iliad Group`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
@@ -22,7 +22,7 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 </a>
 </p>
 
-## **About Me 🚀**
+## **About Me 🤗**
 
 I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
