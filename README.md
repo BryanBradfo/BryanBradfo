@@ -80,9 +80,11 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 
 <h3 align="center">
 <a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=115></a>
+ <!---
  &nbsp;
  &nbsp;
 <a href="https://www.free.fr/freebox/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Free_logo.svg/2560px-Free_logo.svg.png" alt="Free" width=140></a>
+-->
 <!---
 <a href="https://www.scaleway.com/fr/"><img src="https://www-uploads.scaleway.com/About_Generic_Hero_c4dc10a073.webp" alt="Scaleway" width=135></a>
 -->
