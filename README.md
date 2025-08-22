@@ -142,8 +142,9 @@ As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed a
 *   **EuroSAT Image Classification**: Classifying geospatial images, project @ Météo France ([Report](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf))
 
 ## **Additional Education 🎓**​
-
-![harvard](https://www.freecodecamp.org/news/content/images/2020/06/cs50largest.jpeg)
+<p align="center">
+     <img src="https://www.freecodecamp.org/news/content/images/2020/06/cs50largest.jpeg" alt="CS50" width="600">
+</p>
 
 ### CS50 Student @ Harvard University
 
@@ -173,7 +174,9 @@ This course explored the concepts and algorithms at the foundation of modern art
 *   **Projects**: Implemented hands-on projects based on graph search algorithms, reinforcement learning, machine learning, and natural language processing. I built programs for technologies like game-playing engines and machine translation.
 *   **Skills Learned**: Gained expertise in AI concepts such as search algorithms (A*, minimax), knowledge representation, probabilistic reasoning, optimization, and machine learning. I also became experienced with relevant Python libraries like TensorFlow and scikit-learn.
 
-![stanford](https://letemps-17455.kxcdn.com/photos/e841f470-58e7-4507-a9c2-974a3779180c/small)
+<p align="center">
+<img src="https://letemps-17455.kxcdn.com/photos/e841f470-58e7-4507-a9c2-974a3779180c/small" alt="Stanford" width="600">
+</p>
 
 ### Visiting Student @ Stanford University
 
