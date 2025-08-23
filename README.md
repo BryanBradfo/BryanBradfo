@@ -4,7 +4,7 @@
 --->
 ![kirby](https://github.com/user-attachments/assets/b34a5b26-8e4a-4813-9b40-76dd430e549c)
 
-**`Low-Ego Joyful Machine Learning Engineer & Data Scientist @ Iliad Group`**
+**`Low-Ego Joyful Machine Learning Engineer @ Iliad Group`**
 
 _Engineering the intelligence in Artificial Intelligence. :)_ 
 
