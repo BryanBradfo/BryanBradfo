@@ -56,7 +56,7 @@ class BryanChen(ExcellentProgrammer):
         self.universities = ["École Polytechnique (Institut Polytechnique de Paris) - France",
                              "ENSEEIHT - France",
                              "ENS Paris-Saclay - France"]
-        self.passions = ["traveling", "exploring_cultures", "languages", "gyoza making"]
+        self.passions = ["traveling", "exploring_cultures", "languages", "gyoza_making", "kpop_dancing"]
         self.volunteer_engagements = ["Young AI Leader @ ITU (Paris-Hub) for AI for Good"]
 
     def im_interested_in(self):
