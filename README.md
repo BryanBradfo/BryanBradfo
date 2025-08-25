@@ -27,10 +27,10 @@ _Engineering the intelligence in Artificial Intelligence. :)_
 I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNjY3RlNmdhenA2d2pvcXhqb2Z2M3N5OXV0Y3VvejU0cG5qYzExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Grinding" width=150>
-<!-- https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif / https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f -->
- <!-- <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250>-->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5MWJ5MXJsNTFhanE4MnVubjhma3h3MDd3cDhzOWtpcjRwMHhnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" alt="Grinding" width=150>
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNjY3RlNmdhenA2d2pvcXhqb2Z2M3N5OXV0Y3VvejU0cG5qYzExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Grinding" width=150> -->
+<!-- <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif / https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Grinding" width=150> -->
+<!-- <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250> -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5MWJ5MXJsNTFhanE4MnVubjhma3h3MDd3cDhzOWtpcjRwMHhnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" alt="Grinding" width=200>
 </h3>
 
 Outside of work, I love traveling to explore new countries and cultures. I am also deeply committed to equality of opportunity. As an AI Young Leader recognized by the UN, I am leveraging AI to support individuals and communities in need, ensuring that technological advancements benefit all.
