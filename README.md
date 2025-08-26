@@ -76,7 +76,7 @@ class BryanChen(ExcellentProgrammer):
 ## **Work Experiences 💼**
 
 ### NEW - April 2025: Machine Learning Engineer @ Iliad Group | Free & Scaleway
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **Machine Learning Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
 <a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=115></a>
@@ -94,12 +94,12 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 </h3>
 -->
 
-### September 2024 - March 2025: Machine Learning Research Engineer @ École Polytechnique
-During my time at **École Polytechnique**, in **Palaiseau**, I worked as a **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
+### September 2024 - March 2025: Machine Learning Research Engineer @ CMAP - École Polytechnique
+During my time at **CMAP - École Polytechnique**, in **Palaiseau**, I worked as a **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
 
 <h3 align="center">
 <a href="https://www.polytechnique.edu">
- <img src=https://logonews.fr/wp-content/uploads/2013/12/Logo-Ecole-polytechnique-horizontal-jpeg-HD.jpg width=200 height=100>
+ <img src="https://cmap.ip-paris.fr/sites/cmap/files/logo-cmap.png" width=150 height=150>
 </a>
 </h3>
 
@@ -128,18 +128,25 @@ As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed a
 <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="100" height="100">
 </h3>
 
-## Generative Artificial Intelligence Projects (November 2023 - March 2025) 💻​
-*   **HYGENE: Diffusion-based Hypergraph Generation (AAAI)**: Implementing hypergraph generation with diffusion. ([Report](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link))
-*   **Impact of Knowledge Distillation for Model Interpretability (ICML)**: Teaching model interpretability impact after Knowledge Distillation. ([Blog Post](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/))
-*   **Mean Arterial Pressure (MAP) Prediction with ECG and PPG signals**: Predicting MAP with ECG and PPG signals in a domain adaptation context, project @ Inria. ([Code](https://github.com/ramp-kits/lwfa))
-*   **Groundwater Level Prediction**: Predicting groundwater level, project @ Hi!Paris & @ Inria. ([Certificate](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing))
-*   **Neural Graph Generation conditioned on Text Descriptions**: Developing a sophisticated Neural Graph Generator capable of creating complex graph structures from natural language descriptions, project @ École Polytechnique. ([Report](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link))
-*   **ImageNet-sketch Classification**: Classifying sketch, project @ ENS Ulm. ([Report](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view))
-*   **Classifier-Free Diffusion Guidance (NeurIPS)**: Jointly training conditional/unconditional diffusion models. ([Report](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link))
-*   **Recommender Systems with Generative Retrieval (NeurIPS)**: TIGER, generative retrieval of item IDs. ([Presentation](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing))
-*   **Unifying GANs and Score-Based Diffusion as Generative Particle Models (NeurIPS)**: Score GAN & Discriminator Flow, the unification of GANs and Score-Based Diffusion under one particle evolution framework. ([Presentation](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing))
-*   **Predicting Naturalness using Acoustic Indices**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs. ([Code](https://github.com/jramassa/ListenToTheWild))
-*   **EuroSAT Image Classification**: Classifying geospatial images, project @ Météo France ([Report](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf))
+## Generative Artificial Intelligence Projects 💻​
+*   **[HYGENE: Diffusion-based Hypergraph Generation (AAAI)](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link)**: Implementing hypergraph generation with diffusion.
+*   **[Mean Arterial Pressure (MAP) Prediction with ECG and PPG signals](https://github.com/BryanBradfo/map_estimation)**: Predicting MAP with ECG and PPG signals in a domain adaptation context, project @ Inria.
+*   **[Groundwater Level Prediction - Honorable Mention](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing)**: Predicting groundwater level, project @ Hi!Paris & @ Inria.
+*   **[Neural Graph Generation conditioned on Text Descriptions](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)**: Developing a sophisticated Neural Graph Generator capable of creating complex graph structures from natural language descriptions, project @ École Polytechnique.
+*   **[ImageNet-sketch Classification](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)**: Classifying sketch image, project @ ENS Ulm.
+*   **[Classifier-Free Diffusion Guidance (NeurIPS)](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link)**: Jointly training conditional/unconditional diffusion models.
+*   **[ Presentation of "Recommender Systems with Generative Retrieval" (NeurIPS)](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)**: TIGER, generative retrieval of item IDs.
+*   **[Presentation of "Unifying GANs and Score-Based Diffusion as Generative Particle Models" (NeurIPS)](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing)**: Score GAN & Discriminator Flow, the unification of GANs and Score-Based Diffusion under one particle evolution framework. 
+*   **[Predicting Naturalness using Acoustic Indices](https://github.com/jramassa/ListenToTheWild)**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs.
+*   **[EuroSAT Image Classification](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf)**: Classifying geospatial images, project @ Météo France
+
+## **Open Source Contributions  오픈 소스 기여**
+
+I am a firm believer in the power of open source to drive innovation and collaboration. Below are some of my contributions to the community:
+
+*   **[Hugging Face](https://github.com/huggingface/transformers/pull/37628)**: I contributed to the `transformers` library by updating the model cards for the Swin Transformer and Swin V2 models, helping to improve documentation and accessibility for these widely-used computer vision models.
+*   **[Google Research (OTT-JAX)](https://github.com/ott-jax/ott/pull/634)**: I authored a tutorial notebook on Annealed Sinkhorn for the Optimal Transport Tools (OTT-JAX) library, a project focused on providing high-performance, JAX-based implementations of optimal transport algorithms. My contribution helps users understand and apply this specific technique.
+*   **[Responsible AI Blog (IP Paris)](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)**: I wrote a blog post analyzing the impact of knowledge distillation on model interpretability. This work contributes to the broader discussion on creating more transparent and responsible AI systems.
 
 ## **Additional Education 🎓**​
 <p align="center">
