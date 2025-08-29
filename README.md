@@ -4,7 +4,7 @@
 
 **`Low-Ego Joyful Machine Learning Engineer @ Iliad Group (Free & Scaleway)`**
 
-**_Engineering the intelligence in Artificial Intelligence. :)_** 
+**_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_** 
 
 ## **About Me 🤗**
 
