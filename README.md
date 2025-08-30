@@ -8,7 +8,7 @@
 
 ## **About Me 🤗**
 
-I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff, anomaly detection, clustering, to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
 <h3 align="center">
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNjY3RlNmdhenA2d2pvcXhqb2Z2M3N5OXV0Y3VvejU0cG5qYzExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Grinding" width=150> -->
@@ -60,7 +60,7 @@ class BryanChen(ExcellentProgrammer):
 ## **Work Experiences 💼**
 
 ### NEW - April 2025: Machine Learning Engineer @ Iliad Group | Free & Scaleway
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as a **ML Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as an **ML Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
 
 <h3 align="center">
 <a href="https://www.iliad.fr/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=115></a>
@@ -79,7 +79,7 @@ I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris,
 -->
 
 ### September 2024 - March 2025: Machine Learning Research Engineer @ CMAP - École Polytechnique
-During my time at **CMAP - École Polytechnique**, in **Palaiseau**, I worked as a **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
+During my time at **CMAP - École Polytechnique**, in **Palaiseau**, I worked as an **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
 
 <h3 align="center">
 <a href="https://www.polytechnique.edu">
@@ -88,7 +88,7 @@ During my time at **CMAP - École Polytechnique**, in **Palaiseau**, I worked as
 </h3>
 
 ### Dec 2024 - Mar 2025: Machine Learning Research Engineer @ ENS Ulm
-During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I work as a **ML Research Engineer**, extending **CoVR** and **CoVR-2** research papers. My work focused on enhancing models for composed video retrieval by exploring more balanced and context-aware multimodal representations. I proposed and implemented a novel loss function and an MLP architecture to improve the alignment between visual and textual embeddings, leading to more discriminative and robust retrieval performance. ([See Paper](https://arxiv.org/abs/2308.14746))
+During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I work as an **ML Research Engineer**, extending **CoVR** and **CoVR-2** research papers. My work focused on enhancing models for composed video retrieval by exploring more balanced and context-aware multimodal representations. I proposed and implemented a novel loss function and an MLP architecture to improve the alignment between visual and textual embeddings, leading to more discriminative and robust retrieval performance. ([See Paper](https://arxiv.org/abs/2308.14746))
 
 <h3 align="center">
 <a href="https://www.ens.psl.eu/">
@@ -97,7 +97,7 @@ During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I wo
 </h3>
 
 ### March 2024 - August 2024: Machine Learning Research Engineer @ NUS School of Computing (NUS SoC)
-During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as a **ML Research Engineer**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
+During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as an **ML Research Engineer**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 
 <h3 align="center">
 <a href="https://www.nus.edu.sg/">
@@ -112,17 +112,24 @@ As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed a
 <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="100" height="100">
 </h3>
 
-## Generative Artificial Intelligence Projects 💻​
-*   **[HYGENE: Diffusion-based Hypergraph Generation (AAAI)](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link)**: Implementing hypergraph generation with diffusion.
-*   **[Mean Arterial Pressure (MAP) Prediction with ECG and PPG signals](https://github.com/BryanBradfo/map_estimation)**: Predicting MAP with ECG and PPG signals in a domain adaptation context, project @ Inria.
-*   **[Groundwater Level Prediction - Honorable Mention](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing)**: Predicting groundwater level, project @ Hi!Paris & @ Inria.
-*   **[Neural Graph Generation conditioned on Text Descriptions](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)**: Developing a sophisticated Neural Graph Generator capable of creating complex graph structures from natural language descriptions, project @ École Polytechnique.
-*   **[ImageNet-sketch Classification](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)**: Classifying sketch image, project @ ENS Ulm.
-*   **[Classifier-Free Diffusion Guidance (NeurIPS)](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link)**: Jointly training conditional/unconditional diffusion models.
-*   **[ Presentation of "Recommender Systems with Generative Retrieval" (NeurIPS)](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)**: TIGER, generative retrieval of item IDs.
-*   **[Presentation of "Unifying GANs and Score-Based Diffusion as Generative Particle Models" (NeurIPS)](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing)**: Score GAN & Discriminator Flow, the unification of GANs and Score-Based Diffusion under one particle evolution framework. 
-*   **[Predicting Naturalness using Acoustic Indices](https://github.com/jramassa/ListenToTheWild)**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs.
-*   **[EuroSAT Image Classification](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf)**: Classifying geospatial images, project @ Météo France
+## Generative Artificial Intelligence & MLOps Projects 💻​
+* **[Containerized Youtube Sentiment Analysis](https://github.com/BryanBradfo/youtube-sentiment-mlops)**: A full MLOps pipeline using Docker for containerization, GitHub Actions for CI/CD, DVC for data versioning, and MLflow for experiment tracking to monitor performance.
+* **[Retrieval-Augmented Generation (RAG) system](https://github.com/BryanBradfo/humanAI)**: A RAG system leveraging LangChain for orchestration, FAISS for efficient vector retrieval, and Ollama for inference to enhance LLM responses with humanitarian supplies information.
+* **[HYGENE: Diffusion-based Hypergraph Generation (AAAI)](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link)**: Implementing hypergraph generation with diffusion.
+* **[Mean Arterial Pressure (MAP) Prediction with ECG and PPG signals](https://github.com/BryanBradfo/map_estimation)**: Predicting MAP with ECG and PPG signals in a domain adaptation context, project @ Inria.
+* **[Groundwater Level Prediction - Honorable Mention](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing)**: Predicting groundwater level, project @ Hi!Paris & @ Inria.
+* **[Neural Graph Generation conditioned on Text Descriptions](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)**: Developing a sophisticated Neural Graph Generator capable of creating complex graph structures from natural language descriptions, project @ École Polytechnique.
+* **[ImageNet-sketch Classification](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)**: Classifying sketch image, project @ ENS Ulm.
+* **[Classifier-Free Diffusion Guidance (NeurIPS)](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link)**: Jointly training conditional/unconditional diffusion models.
+* **[ Presentation of "Recommender Systems with Generative Retrieval" (NeurIPS)](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)**: TIGER, generative retrieval of item IDs.
+* **[Presentation of "Unifying GANs and Score-Based Diffusion as Generative Particle Models" (NeurIPS)](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing)**: Score GAN & Discriminator Flow, the unification of GANs and Score-Based Diffusion under one particle evolution framework. 
+* **[Predicting Naturalness using Acoustic Indices](https://github.com/jramassa/ListenToTheWild)**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs.
+* **[EuroSAT Image Classification](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf)**: Classifying geospatial images, project @ Météo France
+
+## **Challenges** 
+
+* **[Mean Arterial Pressure Prediction](https://github.com/BryanBradfo/map_estimation/tree/main):** Achieved 1st/178 at Inria with a domain adaptation-aware MAP prediction model.
+* **[Full-stack Agent-Agnostic Solution](https://github.com/BryanBradfo/hackathon-yubu-code):** Achieved 2nd/338 at Massachusetts Institute of Technology (MIT) with a full-stack solution (LangGraph, FastAPI, Next.js) to trace, visualize, and replay AI agent interactions, featuring a ReAct agent (OpenAI API) to automate resume analysis.
 
 ## **Open Source Contributions  오픈 소스 기여**
 
