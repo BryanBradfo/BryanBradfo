@@ -254,9 +254,6 @@ I've undertaken numerous projects spanning a diverse range of fields, including 
 
 I'm always excited to take on new challenges in AI research and application. If you have an interesting project, a research idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things AI :)
 
-
-#
-
 <h3 align="center">Feel free to explore my repositories! :)</h3>
 
 <h3 align="center">
