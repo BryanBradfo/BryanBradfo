@@ -1,6 +1,6 @@
 # Bryan Chen
 
-![kirby](https://media.licdn.com/dms/image/v2/D4E16AQF61L-5TkZEJg/profile-displaybackgroundimage-shrink_350_1400/B4EZkG0qcmGYAc-/0/1756756094811?e=1759968000&v=beta&t=Kw_cb7sJ-iO4mQjkJSdwPuAgEltyL4pNSo14Wo5X5YA)
+![kirby](https://media.licdn.com/dms/image/v2/D4D16AQE31JI29TlC9Q/profile-displaybackgroundimage-shrink_350_1400/B4DZkRg_ouIcAY-/0/1756935487692?e=1759968000&v=beta&t=Dul__gW_wAbT5CEjde4a2N2mC4dHanVHaZYm5EAlG2k)
 
 **`Low-Ego Joyful Machine Learning Engineer @ Iliad Group (Free & Scaleway)`**
 
