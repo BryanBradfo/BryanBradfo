@@ -180,7 +180,7 @@ This course explored the concepts and algorithms at the foundation of modern art
 </p>
 ---->
 
-### Visiting Student @ Stanford University <img src="https://logo-marque.com/wp-content/uploads/2021/10/Stanford-Symbole.jpg" alt="Stanford University" width="70">
+### Visiting Student @ Stanford University <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1024px-Seal_of_Leland_Stanford_Junior_University.svg.png" alt="Stanford University" width="30">
 
 <!---
 <p align="center">
