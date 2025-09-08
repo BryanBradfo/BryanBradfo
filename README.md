@@ -1,6 +1,6 @@
-# Bryan Chen
-
 ![kirby](https://media.licdn.com/dms/image/v2/D4D16AQE31JI29TlC9Q/profile-displaybackgroundimage-shrink_350_1400/B4DZkRg_ouIcAY-/0/1756935487692?e=1759968000&v=beta&t=Dul__gW_wAbT5CEjde4a2N2mC4dHanVHaZYm5EAlG2k)
+
+# Bryan Chen
 
 **`Low-Ego Joyful Machine Learning Engineer @ Iliad Group (Free & Scaleway)`**
 
@@ -124,12 +124,12 @@ As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed a
 * <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg/2048px-Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg.png" width="20" height="20"> **[Predicting Naturalness using Acoustic Indices](https://github.com/jramassa/ListenToTheWild)**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs.
 * <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_M%C3%A9t%C3%A9o_France_2016.svg/2048px-Logo_M%C3%A9t%C3%A9o_France_2016.svg.png" width="25" height="25"> **[EuroSAT Image Classification](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf)**: Classifying geospatial images, project @ Météo France 
 
-## **Challenges** 
+## **Challenges 도전** 
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60" height="60"> **[Mean Arterial Pressure Prediction](https://github.com/BryanBradfo/map_estimation/tree/main):** Achieved 1st/178 at Inria with a domain adaptation-aware MAP prediction model. 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="30" height="30"> **[Full-stack Agent-Agnostic Solution](https://github.com/BryanBradfo/hackathon-yubu-code):** Achieved 2nd/338 at Massachusetts Institute of Technology (MIT) with a full-stack solution (LangGraph, FastAPI, Next.js) to trace, visualize, and replay AI agent interactions, featuring a ReAct agent (OpenAI API) to automate resume analysis. 
 
-## **Open Source Contributions  오픈 소스 기여**
+## **Open Source Contributions 오픈 소스 기여**
 
 I am a firm believer in the power of open source to drive innovation and collaboration. Below are some of my contributions to the community:
 
@@ -249,7 +249,7 @@ As a **Young AI Leader for the International Telecommunication Union (ITU) at th
 *   Explore how AI technology can modestly **contribute to supporting their missions**.
 *   Develop concrete projects, such as our current exploration of a **solidarity chatbot** for individuals experiencing homelessness or extreme precarity.
 
-## **Projects**
+## **Projects 프로젝트**
 
 <p align="left">
 I've undertaken numerous projects spanning a diverse range of fields, including internships, research endeavors, academic coursework, and competitive data challenges. These are consolidated into repositories on my GitHub. You'll discover a wide variety of subjects within, including Deep Learning, Optimization, Mathematics, Software Development, and Algorithms, among others!
