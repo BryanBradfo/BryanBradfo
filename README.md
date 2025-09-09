@@ -92,7 +92,7 @@ During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I wo
 </h3>
 ---->
 
-### Mar. 2024 - Aug. 2024: Machine Learning Research Engineer @ NUS School of Computing (NUS SoC) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=40>
+### Mar. 2024 - Aug. 2024: Machine Learning Research Engineer @ NUS School of Computing <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=40>
 During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as an **ML Research Engineer**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
 <!---
 <h3 align="center">
