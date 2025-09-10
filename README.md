@@ -60,7 +60,7 @@ class BryanChen(ExcellentProgrammer):
 ## **Work Experiences**
 
 ### NEW - Apr. 2025: Machine Learning Engineer @ Iliad Group | Free & Scaleway <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=30>
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as an **ML Engineer**. My work focuses on proposing deep learning models for signal quality coverage maps, developing data pipelines and ETL, performing feature engineering, rigorous model evaluation, and building Streamlit applications querying Clickhouse databases to present key business insights.
+I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as an **ML Engineer**. My work focuses on developing Generative AI (GenAI) solutions, building data pipelines (ETL), and creating dashboards to present key insights.
 
 <!---
 <h3 align="center">
