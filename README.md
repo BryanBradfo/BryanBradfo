@@ -137,7 +137,7 @@ I am a firm believer in the power of open source to drive innovation and collabo
 * <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" with="20" height="20"> x <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="20" height="20"> **[Apple/Google (OTT-JAX)](https://github.com/ott-jax/ott/pull/634)**: I authored a tutorial notebook on Annealed Sinkhorn for the Optimal Transport Tools (OTT-JAX) library, a project focused on providing high-performance, JAX-based implementations of optimal transport algorithms. My contribution helps users understand and apply this specific technique.
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s" width="25" height="25"> **[Responsible AI Blog (IP Paris)](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)**: I wrote a blog post analyzing the impact of knowledge distillation on model interpretability. This work contributes to the broader discussion on creating more transparent and responsible AI systems.
 
-## **Additional Education 🎓**​
+## **Additional Education 교육**​
 <!---
 <p align="center">
      <img src="https://www.freecodecamp.org/news/content/images/2020/06/cs50largest.jpeg" alt="CS50" width="600">
