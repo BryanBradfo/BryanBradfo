@@ -6,7 +6,7 @@
 
 **_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_** 
 
-## **About Me**
+## **About Me 나**
 
 I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff, anomaly detection, clustering, to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
 
