@@ -1,114 +1,114 @@
-![kirby](https://media.licdn.com/dms/image/v2/D4D16AQE31JI29TlC9Q/profile-displaybackgroundimage-shrink_350_1400/B4DZkRg_ouIcAY-/0/1756935487692?e=1759968000&v=beta&t=Dul__gW_wAbT5CEjde4a2N2mC4dHanVHaZYm5EAlG2k)
+#  Hey 👋 What's up?
 
-# Bryan Chen
+**`Machine Learning Engineer @ Iliad Group (Free & Scaleway) | Ecole Polytechnique`**
 
-**`Low-Ego Joyful Machine Learning Engineer @ Iliad Group (Free & Scaleway)`**
-
-**_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_** 
+<!--
+**_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_**
+-->
 
 ## **About Me**
 
-I am a **Computer & Data Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. After graduating from _École Polytechnique_ at _Institut Polytechnique de Paris_, France, and _National Polytechnic Institute (ENSEEIHT)_, France, **I will join Iliad Group as a Machine Learning Engineer** in Paris. My work involves developing cutting-edge ML solutions, from deep learning models in geoAI with cool stuff, anomaly detection, clustering, to robust data pipelines. My research interests include computer vision, NLP, generative models, model compression, and efficient deep learning. I am driven by the potential of machine learning to address complex challenges and create impactful solutions.
+I am Bryan, a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. I am driven by the potential of machine learning to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
 
-<h3 align="center">
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNjY3RlNmdhenA2d2pvcXhqb2Z2M3N5OXV0Y3VvejU0cG5qYzExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Grinding" width=150> -->
-<!-- <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif / https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Grinding" width=150> -->
-<!-- <img src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif" alt="Coding addiction" width=250> -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q5MWJ5MXJsNTFhanE4MnVubjhma3h3MDd3cDhzOWtpcjRwMHhnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" alt="Grinding" width=200>
-</h3>
 
-Outside of work, I love traveling to explore new countries and cultures. I am also deeply committed to equality of opportunity. As an AI Young Leader recognized by the UN, I am leveraging AI to support individuals and communities in need, ensuring that technological advancements benefit all.
+<details>
+  <summary><strong>cat /config/bryan_chen.yml</strong></summary>
 
-```yml
-from Persistence import Excellence
-from ComputerScience import ExcellentProgrammer
+```yaml
+metadata:
+  name: Bryan Chen
+  title: Machine Learning Engineer
+  location: Paris, France 🇫🇷
+  tagline: Engineering the intelligence in AI & Automating with it.
 
-class BryanChen(ExcellentProgrammer):
+core_competencies:
+  -
+    area: Artificial Intelligence
+    skills: [Deep Learning, Generative AI, Computer Vision, NLP, Responsible AI, Agentic AI]
+  -
+    area: MLOps & Data Engineering
+    skills: [CI/CD, Docker, DVC, MLflow, ETL Pipelines, GitHub Actions]
+  -
+    area: Software Engineering
+    skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java]
 
-    def __init__(self):
-    
-        self.country = "France 🇫🇷"
-        self.current_city = "Paris, France"
-        self.current_job = "Machine Learning Engineer @ Iliad Group (Free & Scaleway)"
-        self.past_experiences = ["CS50 Student @ Harvard University - Cambridge, USA",
-                                 "Machine Learning Research Engineer @ École Polytechnique (l'X) - IP Paris, FR",
-                                 "Machine Learning Research Engineer @ École Normale Supérieure (ENS) Paris, FR",
-                                 "Visiting Student @ Stanford University - California, USA",
-                                 "Machine Learning Research Engineer @ NUS School of Computing (SoC), SG",
-                                 "Machine Learning Research Engineer @ CNRS, FR",
-                                 "Machine Learning Research Engineer @ LAAS-CNRS, FR"]
-        self.universities = ["École Polytechnique (Institut Polytechnique de Paris) - France",
-                             "ENSEEIHT - France",
-                             "ENS Paris-Saclay - France"]
-        self.passions = ["traveling", "exploring_cultures", "languages", "gyoza_making", "kpop_dancing"]
-        self.volunteer_engagements = ["Young AI Leader @ ITU (Paris-Hub) for AI for Good"]
+career_highlights:
+  - role: Machine Learning Engineer
+    company: Iliad Group (Free & Scaleway)
+    focus: Building production-level GenAI solutions and data pipelines.
+  - role: Machine Learning Research Engineer
+    institutions: [École Polytechnique, ENS Ulm, NUS, CNRS]
+    focus: Advancing research in VLMs, model compression, and optimization.
+  - role: Hackathon Winner
+    achievements:
+      - "1st/178 @ Inria Challenge (MAP Prediction)"
+      - "2nd/338 @ MIT Hackathon (AI Agent Tooling)"
 
-    def im_interested_in(self):
-        
-        return ["deep_learning", "machine_learning", "data_science",
-                "computer_vision", "natural_language_processing", 
-                "generative_models", "model_compression", "responsible_ai"]
+personal_interests:
+  - Traveling & Exploring Cultures
+  - Languages
+  - Gyoza Making
+  - K-Pop Dancing
+  - Open Source Contribution
 
-    def goals_and_commitments(self):
+philosophy:
+  - "Strive for Excellence in everything."
+  - "Low ego, high impact."
+  - "Find joy in the process and the code."
+  - "Commit to continuous learning and open collaboration."
 
-        return self.develop_impactful_ai_solutions() \\
-               and self.advance_research_in(["machine_learning", "responsible_ai", "geoAI", "computer_vision", "agentic_AI"]) \\
-               and self.contribute_to_open_source() \\
-               and Excellence("everything")
 ```
+</details>
 
-## **Work Experiences**
+<details>
+  <summary><strong>whant to know more?</strong></summary>
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/1200px-Logo_Iliad.png" alt="Iliad Group" width=30> NEW - Apr. 2025: Machine Learning Engineer @ Iliad Group | Free & Scaleway
-I'm excited to be part of the **Iliad Group (Free / Scaleway)** team in **Paris, France**, as an **ML Engineer**. My work focuses on developing Generative AI (GenAI) solutions, building data pipelines (ETL), and creating dashboards to present key insights.
+## Work & Research Experiences
 
-### <img src="https://cmap.ip-paris.fr/sites/cmap/files/logo-cmap.png" width=40> Sep. 2024 - Mar. 2025: Machine Learning Research Engineer @ CMAP - École Polytechnique
-During my time at **CMAP - École Polytechnique**, in **Palaiseau**, I worked as an **ML Research Engineer**, contributing to a research project on **Improving Vision-Language Models (VLMs) for Discriminative Tasks**. My work involved enhancing sparse attention selection mechanisms to improve few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link))
+| **Role & Company** | **Description & Key Contributions** |
+| :--- | :--- |
+| **ML Engineer** @ <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/150px-Logo_Iliad.png" alt="Iliad Group" width=80> <br> (Apr. 2025 - Present) | As part of the **Iliad Group (Free / Scaleway)** team in Paris, I develop Generative AI (GenAI) solutions, build ETL data pipelines, and create insightful dashboards. |
+| **ML Research Engineer** @ <br> <img src="https://cmap.ip-paris.fr/sites/cmap/files/logo-cmap.png" width=50> <br> (Sep. 2024 - Mar. 2025) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
+| **ML Research Engineer** @ <br> <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="30"> <br> (Dec. 2024 - Mar. 2025) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
+| **ML Research Engineer** @ <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=50> <br> (Mar. 2024 - Aug. 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA, achieving compression ratios up to 25x on models like ViTs and ResNets. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
+| **ML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (Jun. 2023 - Aug. 2023) | At **CNRS** in Toulouse, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees to improve decision-making. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
 
-### <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="25"> Dec. 2024 - Mar. 2025: Machine Learning Research Engineer @ École Normale Supérieure Ulm
-During my time at **École Normale Supérieure (ENS) - Ulm,** in **Paris**, I work as an **ML Research Engineer**, extending **CoVR** and **CoVR-2** research papers. My work focused on enhancing models for composed video retrieval by exploring more balanced and context-aware multimodal representations. I proposed and implemented a novel loss function and an MLP architecture to improve the alignment between visual and textual embeddings, leading to more discriminative and robust retrieval performance. ([See Paper](https://arxiv.org/abs/2308.14746))
+## Projects, Research & Presentations
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=40> Mar. 2024 - Aug. 2024: Machine Learning Research Engineer @ NUS School of Computing
-During my time at the **National University of Singapore (NUS) School of Computing (SoC)** in **Singapore**, I worked as an **ML Research Engineer**. I created an efficient checkpointing fine-tuning scheme for DNNs using Delta-LoRA and LC-checkpoint, achieving compression ratios up to 25x. This was applied to models like ViTs, ResNets, LeNet-5, VGG-16, and AlexNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora))
+| **Containerized Youtube Sentiment Analysis** | **Retrieval-Augmented Generation (RAG) System** | **HYGENE: Diffusion-based Hypergraph Generation** |
+| :--- | :--- | :--- |
+| [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/youtube-sentiment-mlops) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="30"> | [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/humanAI) <br> <img src="https://yt3.googleusercontent.com/ytc/AIdro_kBxoahJRCGB_tikN3cFHbejvDunuwzRrGr1jpCvgyaog=s900-c-k-c0x00ffffff-no-rj" width="30"> | [![Paper](https://img.shields.io/badge/Read-Paper-red)](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link) <br> <img src="https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2024/01/logo_telecom_ipparis_rvb_fond_h-770x360.png" width="60"> |
+| A full MLOps pipeline using **Docker**, **GitHub Actions**, **DVC**, and **MLflow**. | A RAG system leveraging **LangChain**, **FAISS**, and **Ollama** for inference. | Implemented hypergraph generation with diffusion models (**AAAI**), a project at **Télécom Paris**. |
+| **Groundwater Level Prediction** | **Neural Graph Generation from Text** | **Classifier-Free Diffusion Guidance (NeurIPS)** |
+| [![Report](https://img.shields.io/badge/View-Report-green)](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing) <br> <img src="https://mesinfos.fr/content/articles/985/A38985/initial-hi-paris-lancement-ecole-polytechnique-x.jpg" width="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | [![Report](https://img.shields.io/badge/View-Report-green)](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link) <br> <img src="https://www.ip-paris.fr/voeux2022-ecolepolytechnique/images/logo_p.png" width="60"> | [![Report](https://img.shields.io/badge/View-Report-green)](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link) <br> <img src="https://www.ip-paris.fr/voeux2022-ecolepolytechnique/images/logo_p.png" width="60"> |
+| A project with **Hi!Paris & Inria** to predict groundwater levels, which received an **Honorable Mention**. | Developed a Neural Graph Generator to create complex graph structures from text at **École Polytechnique**. | A paper implementation focused on jointly training conditional/unconditional diffusion models. |
+| **ImageNet-sketch Classification** | **EuroSAT Image Classification** | **Predicting Naturalness with Acoustic Indices** |
+| [![Report](https://img.shields.io/badge/View-Report-red)](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_%C3%89cole_normale_sup%C3%A9rieure_-_PSL_%28ENS-PSL%29.svg/1200px-Logo_%C3%89cole_normale_sup%C3%A9rieure_-_PSL_%28ENS-PSL%29.svg.png" width="60"> | [![Report](https://img.shields.io/badge/View-Report-blue)](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf) <br> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_M%C3%A9t%C3%A9o_France_2016.svg/2048px-Logo_M%C3%A9t%C3%A9o_France_2016.svg.png" width="30"> | [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/jramassa/ListenToTheWild) <br> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg/2048px-Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg.png" width="25"> |
+| A computer vision project from **ENS Ulm** focused on classifying sketch images. | A project with **Météo France** to classify geospatial images from the EuroSAT dataset. | Used **scikit-maad** and **VGGish** to extract acoustic indices and apply ML models to find patterns. |
+| **Presentation: Generative Recommender Systems** | **Presentation: Unifying GANs & Diffusion** | |
+| [![Slides](https://img.shields.io/badge/View-Slides-yellow)](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing) <br> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepmind-color.png" width="25"> | [![Slides](https://img.shields.io/badge/View-Slides-yellow)](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Criteo_logo21.svg/1200px-Criteo_logo21.svg.png" width="60"> | |
+| Presented **TIGER**, a method for generative retrieval of item IDs for recommender systems. | Presented **Score GAN & Discriminator Flow**, a unified framework for GANs and Diffusion models. | |
 
-### <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="23" height="23">  Jun. 2023 - Aug. 2023: Machine Learning Research Engineer @ CNRS
-As a **ML Research Engineer** at **CNRS** in **Toulouse, France**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees. This work significantly improved decision-making, achieving up to 80% of the theoretical objective function value. ([See Code](https://github.com/BryanBradfo/laas-mission))
+## Challenges & Hackathons
 
-## Generative Artificial Intelligence & MLOps Projects 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="20" height="20"> **[Containerized Youtube Sentiment Analysis](https://github.com/BryanBradfo/youtube-sentiment-mlops)**: A full MLOps pipeline using Docker for containerization, GitHub Actions for CI/CD, DVC for data versioning, and MLflow for experiment tracking to monitor performance.
-* <img src="https://yt3.googleusercontent.com/ytc/AIdro_kBxoahJRCGB_tikN3cFHbejvDunuwzRrGr1jpCvgyaog=s900-c-k-c0x00ffffff-no-rj" width="20" height="20"> **[Retrieval-Augmented Generation (RAG) system](https://github.com/BryanBradfo/humanAI)**: A RAG system leveraging LangChain for orchestration, FAISS for efficient vector retrieval, and Ollama for inference to enhance LLM responses with humanitarian supplies information.
-* <img src="https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2024/01/logo_telecom_ipparis_rvb_fond_h-770x360.png" width="60" height="60">**[HYGENE: Diffusion-based Hypergraph Generation (AAAI)](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link)**: Implementing hypergraph generation with diffusion.
-* <img src="https://mesinfos.fr/content/articles/985/A38985/initial-hi-paris-lancement-ecole-polytechnique-x.jpg" width="35" height="35"> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60" height="60"> **[Groundwater Level Prediction - Honorable Mention](https://drive.google.com/file/d/19Q24x3PWoXmMHCACuufwl4OdI0_hLq8i/view?usp=sharing)**: Predicting groundwater level, project @ Hi!Paris & @ Inria. 
-* <img src="https://www.ip-paris.fr/voeux2022-ecolepolytechnique/images/logo_p.png" width="60" height="60"> **[Neural Graph Generation conditioned on Text Descriptions](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)**: Developing a sophisticated Neural Graph Generator capable of creating complex graph structures from natural language descriptions, project @ École Polytechnique. 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_%C3%89cole_normale_sup%C3%A9rieure_-_PSL_%28ENS-PSL%29.svg/1200px-Logo_%C3%89cole_normale_sup%C3%A9rieure_-_PSL_%28ENS-PSL%29.svg.png" width="60" height="60"> **[ImageNet-sketch Classification](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)**: Classifying sketch image, project @ ENS Ulm. 
-* <img src="https://www.ip-paris.fr/voeux2022-ecolepolytechnique/images/logo_p.png" width="60" height="60"> **[Classifier-Free Diffusion Guidance (NeurIPS)](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=drive_link)**: Jointly training conditional/unconditional diffusion models.
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdcj2AFaExHKxoRUggXpAcoQhA8ntMFYQwQ&s" width="40" height="40"> **[Presentation of "Recommender Systems with Generative Retrieval" (NeurIPS)](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)**: TIGER, generative retrieval of item IDs.
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdcj2AFaExHKxoRUggXpAcoQhA8ntMFYQwQ&s" width="40" height="40"> **[Presentation of "Unifying GANs and Score-Based Diffusion as Generative Particle Models" (NeurIPS)](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing)**: Score GAN & Discriminator Flow, the unification of GANs and Score-Based Diffusion under one particle evolution framework. 
-* <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg/2048px-Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg.png" width="20" height="20"> **[Predicting Naturalness using Acoustic Indices](https://github.com/jramassa/ListenToTheWild)**: Utilizing scikit-maad, VGGish acoustic indices, applying ML to get insights and patterns, then confirming assumptions with PANNs.
-* <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_M%C3%A9t%C3%A9o_France_2016.svg/2048px-Logo_M%C3%A9t%C3%A9o_France_2016.svg.png" width="25" height="25"> **[EuroSAT Image Classification](https://github.com/BryanBradfo/ml-student/blob/main/Project/Land_Cover_Project_Report.pdf)**: Classifying geospatial images, project @ Météo France 
+| **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** |
+| :--- | :--- |
+| **Rank: 1st / 178** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/map_estimation/tree/main) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | **Rank: 2nd / 338** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/hackathon-yubu-code) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="40"> |
+| Achieved 1st place at the **Inria** challenge with a domain adaptation-aware model for Mean Arterial Pressure (MAP) prediction. | Placed 2nd at the **MIT** Hackathon with a full-stack solution (**LangGraph, FastAPI, Next.js**) to trace and visualize AI agent interactions. |
 
-## **Challenges** 
+## Open Source Contributions
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60" height="60"> **[Mean Arterial Pressure Prediction](https://github.com/BryanBradfo/map_estimation/tree/main):** Achieved 1st/178 at Inria with a domain adaptation-aware MAP prediction model. 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="30" height="30"> **[Full-stack Agent-Agnostic Solution](https://github.com/BryanBradfo/hackathon-yubu-code):** Achieved 2nd/338 at Massachusetts Institute of Technology (MIT) with a full-stack solution (LangGraph, FastAPI, Next.js) to trace, visualize, and replay AI agent interactions, featuring a ReAct agent (OpenAI API) to automate resume analysis. 
+| **Hugging Face Transformers** | **Apple/Google (OTT-JAX)** | **Responsible AI Blog (IP Paris)** |
+| :--- | :--- | :--- |
+| [![PR](https://img.shields.io/badge/PR-37628-green?logo=github)](https://github.com/huggingface/transformers/pull/37628) <br> <img src="https://formation-haguenau.fr/wp-content/uploads/2024/12/hf-logo-1.png" width="30"> | [![PR](https://img.shields.io/badge/PR-634-green?logo=github)](https://github.com/ott-jax/ott/pull/634) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="25"> | [![Article](https://img.shields.io/badge/Read-Article-orange)](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/) <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s" width="30"> |
+| Updated model cards for the **Swin Transformer, Swin V2, Pixtral & ShieldGemma 2 models** to improve documentation. | Authored a tutorial on **Annealed Sinkhorn** for the Optimal Transport Tools (OTT-JAX) library. | Wrote a blog post analyzing the impact of knowledge distillation on model interpretability. |
 
-## **Open Source Contributions**
+## Additional Education​
 
-I am a firm believer in the power of open source to drive innovation and collaboration. Below are some of my contributions to the community:
-
-* <img src="https://formation-haguenau.fr/wp-content/uploads/2024/12/hf-logo-1.png" width="25" height="25"> **[Hugging Face](https://github.com/huggingface/transformers/pull/37628)**: I contributed to the `transformers` library by updating the model cards for the Swin Transformer and Swin V2 models, helping to improve documentation and accessibility for these widely-used computer vision models.
-* <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" with="20" height="20"> x <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="20" height="20"> **[Apple/Google (OTT-JAX)](https://github.com/ott-jax/ott/pull/634)**: I authored a tutorial notebook on Annealed Sinkhorn for the Optimal Transport Tools (OTT-JAX) library, a project focused on providing high-performance, JAX-based implementations of optimal transport algorithms. My contribution helps users understand and apply this specific technique.
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s" width="25" height="25"> **[Responsible AI Blog (IP Paris)](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)**: I wrote a blog post analyzing the impact of knowledge distillation on model interpretability. This work contributes to the broader discussion on creating more transparent and responsible AI systems.
-
-## **Additional Education**​
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="25"> CS50 Student @ Harvard University
-
-I have supplemented my formal education by completing several of Harvard University's renowned CS50 courses, which have provided me with a robust foundation in computer science and artificial intelligence. (CS50x: Computer Science, CS50P: Programming with Python & CS50AI: Artificial Intelligence with Python)
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1024px-Seal_of_Leland_Stanford_Junior_University.svg.png" alt="Stanford University" width="25"> Visiting Student @ Stanford University
-
-As a **Visiting Student** from September 2023 to October 2024, I had the opportunity to follow some of Stanford's world-class courses in Computer Science and Artificial Intelligence.
+| **Institution** | **Status & Focus** |
+| :--- | :--- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="30"> <br> **Harvard University** | **CS50 Student** <br> Completed renowned courses providing a robust foundation in Computer Science and AI (**CS50x, CS50P & CS50AI**). |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1024px-Seal_of_Leland_Stanford_Junior_University.svg.png" alt="Stanford University" width="30"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence from Sep. 2023 to Oct. 2024. |
 
 ## **Looking forward to...**
 
@@ -118,6 +118,6 @@ I'm always excited to take on new challenges in AI research and application. If 
 
 <h3 align="center">
  <img src="https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe" alt="Software Engineer" width=200>
-<!-- <img src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" alt="AI & Innovation" width=200> -->
-<!-- https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe -->
 </h3>
+
+</details>
