@@ -8,7 +8,7 @@
 
 ## **About Me**
 
-I am Bryan, a **Computer Scientist** passionate about **Artificial Intelligence**, **MLOps**, **AI Agents**, **LLMs**, and **Data Science**. I am driven by the potential of machine learning to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
+I am Bryan, a **Computer Scientist**. I am driven by the potential of machine learning to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
 
 
 <details>
