@@ -1,6 +1,6 @@
 #  Hey 👋 What's up?
 
-**`Machine Learning Engineer @ Iliad Group (Free & Scaleway) | École Polytechnique - IP Paris`**
+**`(Low-Ego 🤗​) Machine Learning Engineer @ Iliad Group (Free & Scaleway) | École Polytechnique - IP Paris`**
 
 <!--
 **_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_**
@@ -24,7 +24,7 @@ metadata:
 core_competencies:
   -
     area: Artificial Intelligence
-    skills: [Deep Learning, Generative AI, Computer Vision, NLP, Responsible AI, Agentic AI]
+    skills: [Deep Learning, Generative AI, Computer Vision, NLP, LLM, Responsible AI, Agentic AI]
   -
     area: MLOps & Data Engineering
     skills: [CI/CD, Docker, DVC, MLflow, ETL Pipelines, GitHub Actions]
@@ -41,8 +41,8 @@ career_highlights:
     focus: Advancing research in VLMs, model compression, and optimization.
   - role: Hackathon Winner
     achievements:
-      - "1st/178 @ Inria Challenge (MAP Prediction)"
-      - "2nd/338 @ MIT Hackathon (AI Agent Tooling)"
+      - "1st/178 @ Inria Challenge (Mean Arterial Pressure Prediction)"
+      - "2nd/338 @ MIT Hackathon (AI AgentOps Replay)"
 
 personal_interests:
   - Traveling & Exploring Cultures
