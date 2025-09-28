@@ -108,7 +108,7 @@ philosophy:
 | **Institution** | **Status & Focus** |
 | :--- | :--- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="30"> <br> **Harvard University** | **CS50 Student** <br> Completed renowned courses providing a robust foundation in Computer Science and AI (**CS50x, CS50P & CS50AI**). |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1024px-Seal_of_Leland_Stanford_Junior_University.svg.png" alt="Stanford University" width="30"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence from Sep. 2023 to Oct. 2024. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1024px-Seal_of_Leland_Stanford_Junior_University.svg.png" alt="Stanford University" width="30"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
 
 ## **Looking forward to...**
 
