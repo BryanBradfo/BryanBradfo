@@ -12,7 +12,7 @@ I am Bryan, a **Computer Scientist**. I am driven by the potential of machine le
 
 
 <details>
-  <summary><strong>cat /config/about_me.yml</strong></summary>
+  <summary><strong>cat config/about_me.yml</strong></summary>
 
 ```yaml
 metadata:
