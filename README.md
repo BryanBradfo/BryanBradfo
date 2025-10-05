@@ -61,7 +61,7 @@ philosophy:
 </details>
 
 <details>
-  <summary><strong>want to know more?</strong></summary>
+  <summary><strong>wanna know more?</strong></summary>
 
 ## Work & Research Experiences
 
