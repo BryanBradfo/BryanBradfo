@@ -18,7 +18,7 @@ I am Bryan, a **Computer Scientist**. I am driven by the potential of machine le
 metadata:
   name: Bryan Chen
   title: Machine Learning Engineer
-  location: Paris, France 🇫🇷
+  location: Paris, France 🇫🇷🇪🇺
   tagline: Engineering the intelligence in AI & Automating with it.
 
 core_competencies:
@@ -67,7 +67,7 @@ philosophy:
 
 | **Role & Company** | **Description & Key Contributions** |
 | :--- | :--- |
-| **ML Engineer** @ <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/150px-Logo_Iliad.png" alt="Iliad Group" width=40> <br> (Apr. 2025 - Oct. 2025) | As part of the **Iliad Group (Free / Scaleway)** team in Paris, I develop Generative AI solutions in GeoAI domain, build ETL data pipelines, and create insightful dashboards. |
+| **ML Engineer** @ <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Iliad.png/150px-Logo_Iliad.png" alt="Iliad Group" width=40> <br> (Apr. 2025 - Oct. 2025) | At **Iliad Group (Free / Scaleway)** in Paris, I develop an image segmentation model in the GeoAI domain, build ETL data pipelines, and create insightful dashboards for directors and responsibles. |
 | **ML Research Engineer** @ <br> <img src="https://cmap.ip-paris.fr/sites/cmap/files/logo-cmap.png" width=40> <br> (Dec. 2024 - Apr. 2025) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
 | **ML Research Engineer** @ <br> <img src="https://www.sorbonne.fr/wp-content/uploads/ENS_Logo_TL.jpg" alt="ENS Ulm" width="30"> <br> (Nov. 2024 - Feb. 2025) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
 | **ML Research Engineer** @ <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSIWc43IUsKs_t-STEj7x3uk6qvZRcwNidA&s" alt="NUS SoC!" width=50> <br> (Mar. 2024 - Sep. 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
