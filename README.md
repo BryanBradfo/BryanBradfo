@@ -1,6 +1,6 @@
 #  Hey 👋 What's up?
 
-**`(Low-Ego 🤗​) Machine Learning Engineer @ Iliad Group (Free & Scaleway) | École Polytechnique (X) - IP Paris`**
+**`CS + Math @ École Polytechnique`**
 
 <!--
 **_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_**
