@@ -27,10 +27,10 @@ core_competencies:
     skills: [Deep Learning, Generative AI, Computer Vision, NLP, LLM, Responsible AI, Agentic AI]
   -
     area: MLOps & Data Engineering
-    skills: [CI/CD, Docker, DVC, MLflow, ETL Pipelines, GitHub Actions]
+    skills: [CI/CD, Docker, K8s, DVC, MLflow, ETL, Dashboard, GitHub Actions]
   -
     area: Software Engineering
-    skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java]
+    skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java, TypeScript/JavaScript, conda, uv]
 
 career_highlights:
   - role: Machine Learning Engineer
