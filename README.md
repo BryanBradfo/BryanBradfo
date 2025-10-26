@@ -18,7 +18,7 @@ I am Bryan, a **Computer Scientist**. I am driven by the potential of machine le
 metadata:
   name: Bryan Chen
   title: Machine Learning Engineer
-  location: Paris, France 🇫🇷🇪🇺
+  location: France 🇫🇷🇪🇺
   tagline: Engineering the intelligence in AI & Automating with it.
 
 core_competencies:
