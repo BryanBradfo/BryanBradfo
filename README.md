@@ -91,11 +91,10 @@ philosophy:
 
 ## Challenges & Hackathons
 
-| **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** |
-| :--- | :--- |
-| **Rank: 1st / 178** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/map_estimation/tree/main) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | **Rank: 2nd / 338** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/hackathon-yubu-code) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="40"> |
-| Achieved 1st place at the **Inria** challenge with a domain adaptation-aware model for Mean Arterial Pressure (MAP) prediction. | Placed 2nd at the **MIT** Hackathon with a full-stack solution (**LangGraph, FastAPI, Next.js**) to trace and visualize AI agent interactions. |
-
+| **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** | **Skill-Gap Analysis Automation** |
+| :--- | :--- | :--- |
+| **Rank: 1st / 178** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/map_estimation/tree/main) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | **Rank: 2nd / 338** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/hackathon-yubu-code) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="40"> | **Rank: 2nd / 639** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/flashlight) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="40"> |
+| Achieved 1st place at the **Inria** challenge with a domain adaptation-aware model for Mean Arterial Pressure (MAP) prediction. | Placed 2nd at the **MIT** Hackathon with a full-stack solution (**LangGraph, OpenAI, FastAPI, Next.js**) to trace and visualize AI agent interactions. | Placed 2nd at the **MIT** Hackathon with a full-stack app (**React, FastAPI, Gemini, BeautifulSoup**) to automate skill-gap analysis by aggregating multi-source data. |
 ## Open Source Contributions
 
 | **Hugging Face Transformers** | **Apple/Google (OTT-JAX)** | **Responsible AI Blog (IP Paris)** |
