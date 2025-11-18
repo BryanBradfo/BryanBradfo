@@ -16,8 +16,8 @@ I am Bryan, a **Computer Scientist**. I am driven by the potential of machine le
 
 ```yaml
 metadata:
-  name: Bryan Chen
-  title: Machine Learning Engineer
+  name: Bryan C.
+  title: AIML Engineer
   location: France 🇫🇷🇪🇺
   tagline: Engineering the intelligence in AI & Automating with it.
 
