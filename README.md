@@ -1,6 +1,6 @@
 #  Hey 👋 
 
-**`CS + Math @ École Polytechnique`**
+**`CS/AI + Math + Engineering @ École Polytechnique`**
 
 <!--
 **_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_**
