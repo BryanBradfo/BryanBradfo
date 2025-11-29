@@ -1,4 +1,4 @@
-#  Hey 👋 
+#  Hey 👋 , Welcome!
 
 **`CS/AI + Math + Engineering @ École Polytechnique`**
 
