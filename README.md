@@ -2,10 +2,6 @@
 
 **`CS/AI + Math + Engineering @ École Polytechnique`**
 
-<!--
-**_Engineering the intelligence in Artificial Intelligence & Automating stuffs with it :)_**
--->
-
 ## **About Me**
 
 I am Bryan, a **Computer Scientist**. I am driven by the potential of machine learning to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
