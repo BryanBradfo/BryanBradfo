@@ -42,7 +42,6 @@ career_highlights:
 
 personal_interests:
   - Traveling & Exploring Cultures
-  - Languages
   - Gyoza Making
   - K-Pop Dancing
   - Open Source Contribution
