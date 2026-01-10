@@ -13,7 +13,7 @@ I am Bryan, a **Computer Scientist**. I am driven by the potential of artificial
 ```yaml
 metadata:
   name: Bryan C.
-  title: AIML Engineer
+  title: AIML Research Engineer
   location: France 🇫🇷🇪🇺
   tagline: Engineering the intelligence in AI & Automating with it.
 
@@ -23,7 +23,7 @@ core_competencies:
     skills: [Deep Learning, Generative AI, Computer Vision, NLP, LLM, Responsible AI, Agentic AI]
   -
     area: MLOps & Data Engineering
-    skills: [CI/CD, Docker, K8s, DVC, MLflow, ETL, Dashboard, GitHub Actions]
+    skills: [CI/CD, Docker, K8s, DVC, MLflow, ETL, Dashboard, GitHub Actions, Azure/GCP/AWS]
   -
     area: Software Engineering
     skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java, TypeScript/JavaScript, conda, uv]
