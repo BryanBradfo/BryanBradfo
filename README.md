@@ -33,7 +33,7 @@ career_highlights:
     company: Iliad Group (Free & Scaleway)
     focus: Building production-level GenAI solutions and data pipelines.
   - role: Machine Learning Research Engineer
-    institutions: [École Polytechnique, ENS Ulm, NUS, CNRS]
+    institutions: [École Polytechnique, ENS Ulm, ENSAE/Apple, Télécom Paris, NUS, CNRS]
     focus: Advancing research in VLMs, model compression, and optimization.
   - role: Hackathon Winner
     achievements:
