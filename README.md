@@ -4,7 +4,7 @@
 
 ## **About Me**
 
-I am Bryan, a **Computer Scientist**. I am driven by the potential of artificial intelligence to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
+I am Bryan, a **Computer Scientist**. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
 
 
 <details>
