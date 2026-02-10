@@ -4,7 +4,11 @@
 
 ## **About Me**
 
-I am Bryan, a **Computer Scientist**. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
+I am Bryan, an **AI/ML Research Engineer** specializing in deep learning, computer vision, and natural language processing. With experience spanning leading institutions including École Polytechnique, ENS Ulm, National University of Singapore, and industry roles at Iliad Group, I am dedicated to advancing the frontiers of artificial intelligence through rigorous research and production-grade implementations.
+
+My work encompasses the full spectrum of modern AI—from developing novel architectures for vision-language models and diffusion systems, to engineering scalable MLOps pipelines that bridge cutting-edge research with real-world applications. I am passionate about creating intelligent systems that not only push the boundaries of what's possible, but also deliver measurable impact in solving complex, real-world challenges.
+
+Beyond my technical pursuits, I find inspiration in exploring diverse cultures through travel, continuously seeking new perspectives that enrich both my personal growth and professional approach to problem-solving.
 
 
 <details>
