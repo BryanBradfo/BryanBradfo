@@ -57,7 +57,7 @@ philosophy:
 <details>
   <summary><strong>wanna know more?</strong></summary>
 
-## Work & Research Experiences
+## Experiences
 
 | **Role & Company** | **Description & Key Contributions** |
 | :--- | :--- |
