@@ -55,7 +55,7 @@ philosophy:
 </details>
 
 <details>
-  <summary><strong>wanna know more?</strong></summary>
+  <summary><strong>more?</strong></summary>
 
 ## Experiences
 
