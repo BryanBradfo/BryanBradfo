@@ -1,10 +1,12 @@
-# Hey <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="31"/> 
+# Bryan C. 🐍 
 
 **`CS + Math @ École Polytechnique`**
 
-## **About Me**
+_Teaching artifical intelligent models to be intelligent :)_
 
-I am Bryan, a **Computer Scientist**. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures.
+## **About Me 🚀**
+
+I am a passionate about **Artificial Intelligence** and **Machine Learning** research. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures. :)
 
 <details>
   <summary><strong>cat config/about_me.yml</strong></summary>
@@ -57,7 +59,7 @@ philosophy:
 <details>
   <summary><strong>more?</strong></summary>
 
-## Experiences
+## 💼 Recent Work Experiences
 
 | **Role & Company** | **Description & Key Contributions** |
 | :--- | :--- |
