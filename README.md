@@ -6,15 +6,22 @@ _Teaching artifical intelligent models to be intelligent :)_
 
 ## **About Me 🚀**
 
-I am a passionate about **Artificial Intelligence** and **Machine Learning** research. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. Outside of work, I love traveling to explore new countries and cultures. :)
+I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. 
+
+<h3 align="center">
+ <img src="https://github.com/user-attachments/assets/4d4cc560-af87-4481-9a39-0e954bfce1f7" alt="Artificial Intelligence" width=300>
+</h3>
+
+Outside of work, I love traveling to explore new countries and cultures. :)
 
 <details>
-  <summary><strong>cat config/about_me.yml</strong></summary>
+  <summary><strong>about_me.yml</strong></summary>
 
 ```yaml
 metadata:
   name: Bryan C.
   title: AIML Research Engineer
+  origin: China 🇨🇳
   location: France 🇫🇷🇪🇺
   tagline: Engineering the intelligence in AI & Automating with it.
 
@@ -52,6 +59,7 @@ philosophy:
   - "Low ego, high impact."
   - "Find joy in the process and the code."
   - "Commit to continuous learning and open collaboration."
+  - "Open source is the key."
 
 ```
 </details>
@@ -61,13 +69,13 @@ philosophy:
 
 ## 💼 Recent Work Experiences
 
-| **Role & Company** | **Description & Key Contributions** |
+| **Role** | **Description & Key Contributions** |
 | :--- | :--- |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (Feb. 2025 - Jan. 2026) | At **Iliad (Free)** in Paris, I generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (Feb. 24 2025) | At **Iliad (Free)** in Paris, I generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
 | **AIML Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (Dec. 2024 - Apr. 2025) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (Nov. 2024 - Feb. 2025) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (Mar. 2024 - Sep. 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (Jun. 2023 - Aug. 2023) | At **CNRS** in Toulouse, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (Nov. 5 2024) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (Mar. 5 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (Jun. 5 2023) | At **CNRS** in Toulouse, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
 
 ## Projects, Research & Presentations
 
@@ -109,10 +117,12 @@ philosophy:
 
 I'm always excited to take on new challenges in AI research and application. If you have an interesting project, a research idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things AI :)
 
-<h3 align="center">Feel free to explore my repositories! :)</h3>
+## 
+
+<h3 align="center">Thanks for your attention! Stay tuned! :) </h3>
 
 <h3 align="center">
- <img src="https://github.com/user-attachments/assets/66df15c8-b423-4fec-9a14-c992b6833cfe" alt="Software Engineer" width=200>
+ <img src="https://github.com/user-attachments/assets/b97503a9-1159-4766-9d25-57c9f537187d" alt="Software Engineer" width=200>
 </h3>
 
 </details>
