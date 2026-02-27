@@ -1,4 +1,4 @@
-# Bryan C. 🐍 
+# Bryan ChāngShèng Chén 🐻‍❄️
 
 **`CS + Math @ École Polytechnique`**
 
@@ -6,14 +6,15 @@ _Teaching artifical intelligent models to be intelligent :)_
 
 ## **About Me 🚀**
 
-I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. 
+I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. :)
 
 <h3 align="center">
  <img src="https://github.com/user-attachments/assets/4d4cc560-af87-4481-9a39-0e954bfce1f7" alt="Artificial Intelligence" width=300>
 </h3>
 
-Outside of work, I love traveling to explore new countries and cultures. :)
+Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
+---
 <details>
   <summary><strong>about_me.yml</strong></summary>
 
@@ -60,8 +61,8 @@ philosophy:
   - "Find joy in the process and the code."
   - "Commit to continuous learning and open collaboration."
   - "Open source is the key."
-
 ```
+---
 </details>
 
 <details>
@@ -69,15 +70,16 @@ philosophy:
 
 ## 💼 Recent Work Experiences
 
-| **Role** | **Description & Key Contributions** |
+| **Role** | **Description** |
 | :--- | :--- |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (Feb. 24 2025) | At **Iliad (Free)** in Paris, I generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
-| **AIML Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (Dec. 2024 - Apr. 2025) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (Nov. 5 2024) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (Mar. 5 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (Jun. 5 2023) | At **CNRS** in Toulouse, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | At **Iliad (Free)**, I generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
+| **AIML Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (March 2, 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
+| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | At **CNRS** in Toulouse, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
+---
 
-## Projects, Research & Presentations
+## 👨‍💻 Projects
 
 | **Containerized Youtube Sentiment Analysis** | **Retrieval-Augmented Generation (RAG) System** | **HYGENE: Diffusion-based Hypergraph Generation** |
 | :--- | :--- | :--- |
@@ -92,26 +94,31 @@ philosophy:
 | **Presentation: Generative Recommender Systems** | **Presentation: Unifying GANs & Diffusion** | |
 | [![Slides](https://img.shields.io/badge/View-Slides-yellow)](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing) <br> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepmind-color.png" width="25"> | [![Slides](https://img.shields.io/badge/View-Slides-yellow)](https://drive.google.com/file/d/1fzKrdEjrlSk3OkSPZPdtNp0mmDVKE55M/view?usp=sharing) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Criteo_logo21.svg/1200px-Criteo_logo21.svg.png" width="60"> | |
 | Presented **TIGER**, a method for generative retrieval of item IDs for recommender systems. | Presented **Score GAN & Discriminator Flow**, a unified framework for GANs and Diffusion models. | |
+---
 
-## Challenges & Hackathons
+## 📌 Challenges & Hackathons
 
 | **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** | **Skill-Gap Analysis Automation** |
 | :--- | :--- | :--- |
 | **Rank: 1st / 178** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/map_estimation/tree/main) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | **Rank: 2nd / 338** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/hackathon-yubu-code) <br> <img src="https://github.com/user-attachments/assets/979a7da8-54b8-4b17-addc-78977b9528f2" width="40"> | **Rank: 2nd / 639** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/flashlight) <br> <img src="https://github.com/user-attachments/assets/979a7da8-54b8-4b17-addc-78977b9528f2" width="40"> |
 | Achieved 1st place at the **Inria** challenge with a domain adaptation-aware model for Mean Arterial Pressure (MAP) prediction. | Placed 2nd at the **MIT** Hackathon with a full-stack solution (**LangGraph, OpenAI, FastAPI, Next.js**) to trace and visualize AI agent interactions. | Placed 2nd at the **MIT** Hackathon with a full-stack app (**React, FastAPI, Gemini, BeautifulSoup**) to automate skill-gap analysis by aggregating multi-source data. |
-## Open Source Contributions
+---
 
-| **Hugging Face Transformers** | **Apple/Google (OTT-JAX)** | **Responsible AI Blog (IP Paris)** |
+## 🌎 Open Source Contributions
+
+| **Hugging Face Transformers** | **OTT-JAX** | **Responsible AI Blog (IP Paris)** |
 | :--- | :--- | :--- |
-| [![PR](https://img.shields.io/badge/PR-37628-green?logo=github)](https://github.com/huggingface/transformers/pull/37628) <br> <img src="https://formation-haguenau.fr/wp-content/uploads/2024/12/hf-logo-1.png" width="30"> | [![PR](https://img.shields.io/badge/PR-634-green?logo=github)](https://github.com/ott-jax/ott/pull/634) <br> <img src="https://github.com/user-attachments/assets/8f43765d-58dc-498b-82ea-ef9377a7eb33" width="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="25"> | [![Article](https://img.shields.io/badge/Read-Article-orange)](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/) <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s" width="30"> |
+| [![PR](https://img.shields.io/badge/PR-37628-green?logo=github)](https://github.com/huggingface/transformers/pull/37628) <br> <img src="https://formation-haguenau.fr/wp-content/uploads/2024/12/hf-logo-1.png" width="30"> | [![PR](https://img.shields.io/badge/PR-634-green?logo=github)](https://github.com/ott-jax/ott/pull/634) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="25"> | [![Article](https://img.shields.io/badge/Read-Article-orange)](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/) <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9L6pTu1YDKDJNRytJjhQgSbRRzggXnn3A&s" width="30"> |
 | Updated model cards for the **Swin Transformer, Swin V2, Pixtral & ShieldGemma 2 models** to improve documentation. | Authored a tutorial on **Annealed Sinkhorn** for the Optimal Transport Tools (OTT-JAX) library. | Wrote a blog post analyzing the impact of knowledge distillation on model interpretability. |
+---
 
-## Additional Education​
+## 🎓 Visiting​
 
 | **Institution** | **Status & Focus** |
 | :--- | :--- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="30"> <br> **Harvard University** | **CS50 Student** <br> Completed renowned courses providing a robust foundation in Computer Science and AI (**CS50x, CS50P & CS50AI**). |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1024px-Seal_of_Leland_Stanford_Junior_University.svg.png" alt="Stanford University" width="30"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
+| <img src="https://github.com/user-attachments/assets/cf9f4d9d-136f-4ec1-8050-7c211605eead" alt="Stanford University" width="20"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
+---
 
 ## **Looking forward to...**
 
