@@ -21,7 +21,7 @@ Outside of work, I love traveling to explore new countries and cultures. I'm als
 ```yaml
 metadata:
   name: Bryan C.
-  title: AIML Research Engineer
+  title: Research Engineer
   origin: China 🇨🇳
   location: France 🇫🇷🇪🇺
   tagline: Engineering the intelligence in AI & Automating with it.
@@ -72,11 +72,11 @@ philosophy:
 
 | **Role** | **Description** |
 | :--- | :--- |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | At **Iliad (Free)**, I generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
-| **AIML Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (March 2, 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
-| **AIML Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | At **CNRS** in Toulouse, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
+| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | At **Iliad (Free)**, I generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
+| **Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | At **CMAP - École Polytechnique**, I contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
+| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | At **École Normale Supérieure (ENS) - Ulm**, I extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
+| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (March 2, 2024) | At the **National University of Singapore (NUS)**, I created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
+| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | At **CNRS**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
 ---
 
 ## 👨‍💻 Projects
