@@ -23,18 +23,17 @@ metadata:
   name: Bryan C.
   title: Research Engineer
   origin: China 🇨🇳
-  location: France 🇫🇷🇪🇺
-  tagline: Engineering the intelligence in AI & Automating with it.
+  nationality: France 🇫🇷
+  tagline: Engineering the intelligence in AI & Automating with it
+  travel_into: [Singapore 🇸🇬, Thailand 🇹🇭, Malaysia 🇲🇾, Japan 🇯🇵, China 🇨🇳, Taiwan 🇹🇼, Italy 🇮🇹, Germany 🇩🇪,
+               France 🇫🇷, Spain 🇪🇸, Sweden 🇸🇪]  
 
 core_competencies:
-  -
-    area: Artificial Intelligence
+  - area: Artificial Intelligence
     skills: [Deep Learning, Generative AI, Computer Vision, NLP, LLM, Responsible AI, Agentic AI]
-  -
-    area: MLOps & Data Engineering
+  - area: MLOps & Data Engineering
     skills: [CI/CD, Docker, K8s, DVC, MLflow, ETL, Dashboard, GitHub Actions, Azure/GCP/AWS]
-  -
-    area: Software Engineering
+  - area: Software Engineering
     skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java, TypeScript/JavaScript, conda, uv]
 
 career_highlights:
@@ -56,10 +55,9 @@ personal_interests:
   - Open Source Contribution
 
 philosophy:
-  - "Strive for Excellence in everything."
   - "Low ego, high impact."
-  - "Find joy in the process and the code."
-  - "Commit to continuous learning and open collaboration."
+  - "Follow what you like and joy will follow you."
+  - "Continuous learning & open collaboration."
   - "Open source is the key."
 ```
 ---
@@ -72,11 +70,11 @@ philosophy:
 
 | **Role** | **Description** |
 | :--- | :--- |
-| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) |  Generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
-| **Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | Contributed to research on **Improving Vision-Language Models (VLMs)** by enhancing sparse attention selection mechanisms to boost few-shot classification performance. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
-| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | Extended the **CoVR** research papers by designing a novel loss function and MLP architecture to improve alignment between visual and textual embeddings for composed video retrieval. ([See Paper](https://arxiv.org/abs/2308.14746)) |
+| **Data Scientist** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | Generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
+| **Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | Enhanced sparse attention selection mechanisms to boost few-shot classification performance on Vision Language Models. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
+| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | Improved alignment between visual and textual embeddings for composed video retrieval by designing a novel loss function and an MLP architecture on the **CoVR** research paper. ([See Paper](https://arxiv.org/abs/2308.14746)) |
 | **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (March 2, 2024) | Created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
-| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | At **CNRS**, I developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
+| **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | Developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
 ---
 
 ## 👨‍💻 Projects
