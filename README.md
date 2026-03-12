@@ -37,10 +37,10 @@ core_competencies:
     skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java, TypeScript/JavaScript, conda, uv]
 
 career_highlights:
-  - role: AIML Research Engineer
+  - role: Data Scientist
     company: Iliad Group (Free & Scaleway)
     focus: Building production-level GenAI solutions and data pipelines.
-  - role: Machine Learning Research Engineer
+  - role: Research Engineer
     institutions: [École Polytechnique, ENS Ulm, ENSAE/Apple, Télécom Paris, NUS, CNRS]
     focus: Advancing research in VLMs, model compression, and optimization.
   - role: Hackathon Winner
