@@ -56,9 +56,9 @@ personal_interests:
 
 philosophy:
   - "Low ego, high impact."
-  - "Follow what you like and joy will follow you."
+  - "Follow what you like, success will follow."
   - "Continuous learning & open collaboration."
-  - "Open source is the key."
+  - "Open source is magical."
 ```
 ---
 </details>
