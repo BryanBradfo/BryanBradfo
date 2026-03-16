@@ -131,3 +131,5 @@ I'm always excited to take on new challenges in AI research and application. If 
 </h3>
 
 </details>
+
+<sub>Links: [LinkedIn](https://www.linkedin.com/in/bryanbradfo/) · [Portfolio](https://bryanbradfo.me/) · [X](http://x.com/imbryanbradfo) · [HuggingFace](https://huggingface.co/BryanBradfo)</sub>
