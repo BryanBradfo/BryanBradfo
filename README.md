@@ -1,4 +1,4 @@
-# Bryan ChāngShèng Chén 🐻‍❄️
+# Bryan
 
 **`CS + Math @ École Polytechnique`**
 
@@ -20,8 +20,6 @@ Outside of work, I love traveling to explore new countries and cultures. I'm als
 
 ```yaml
 metadata:
-  name: Bryan C.
-  title: Research Engineer
   origin: China 🇨🇳
   nationality: France 🇫🇷
   tagline: Engineering the intelligence in AI & Automating with it
@@ -133,4 +131,5 @@ I'm always excited to take on new challenges in AI research and application. If 
 
 </details>
 
-<sub>Links: [LinkedIn](https://www.linkedin.com/in/bryanbradfo/) · [Portfolio](https://bryanbradfo.me/) · [X](http://x.com/imbryanbradfo) · [HuggingFace](https://huggingface.co/BryanBradfo)</sub>
+<sub>Links: [LinkedIn](https://www.linkedin.com/in/bryanbradfo/) · [Portfolio](https://bryanbradfo.me/) · [X](http://x.com/imbryanbradfo) · [HuggingFace](https://huggingface.co/BryanBradfo)</sub><br>
+<sub>Projects: [MantisPDF](https://mantispdf.vercel.app/) · [SweepKit](https://github.com/Bryanbradfo/sweepkit) </sub>
