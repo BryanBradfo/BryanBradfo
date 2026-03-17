@@ -59,6 +59,7 @@ philosophy:
   - "Follow what you like, success will follow."
   - "Continuous learning & open collaboration."
   - "Open source is magical."
+  - "Failure is a form of success." 
 ```
 ---
 </details>
