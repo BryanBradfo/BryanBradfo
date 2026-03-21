@@ -132,4 +132,4 @@ I'm always excited to take on new challenges in AI research and application. If 
 </details>
 
 <sub>Links: [LinkedIn](https://www.linkedin.com/in/bryanbradfo/) · [Portfolio](https://bryanbradfo.me/) · [X](http://x.com/imbryanbradfo) · [HuggingFace](https://huggingface.co/BryanBradfo)</sub><br>
-<sub>Projects: [MantisPDF](https://mantispdf.vercel.app/) · [SweepKit](https://github.com/Bryanbradfo/sweepkit) </sub>
+<sub>Projects: [SweepKit](https://github.com/Bryanbradfo/sweepkit) · [Physics Guided Machine Learning](https://github.com/BryanBradfo/physics-guided-ml)</sub>
