@@ -39,7 +39,7 @@ career_highlights:
     company: Iliad Group (Free & Scaleway)
     focus: Building production-level GenAI solutions and data pipelines.
   - role: Research Engineer
-    institutions: [École Polytechnique, ENS Ulm, ENSAE/Apple, Télécom Paris, NUS, CNRS]
+    institutions: [CentraleSupélec, École Polytechnique, ENS Ulm, ENSAE/Apple, Télécom Paris, NUS, CNRS]
     focus: Advancing research in VLMs, model compression, and optimization.
   - role: Hackathon Winner
     achievements:
