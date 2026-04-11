@@ -9,7 +9,7 @@ _Teaching artifical intelligent models to be intelligent :)_
 I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. :)
 
 <h3 align="center">
- <img src="https://github.com/user-attachments/assets/47ab8700-4017-4adf-a4ba-cee9d320240b" alt="Artificial Intelligence" width=300>
+ <img src="https://github.com/user-attachments/assets/47ab8700-4017-4adf-a4ba-cee9d320240b" alt="Working" width=300>
 </h3>
 
 Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
