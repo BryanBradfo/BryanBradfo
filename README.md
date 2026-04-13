@@ -1,10 +1,10 @@
-# Bryan <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  Bryan
 
 **`CS + Math @ École Polytechnique`**
 
 _Teaching artifical intelligent models to be intelligent :)_
 
-## **About Me 🚀**
+## **🚀 About Me**
 
 I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. :)
 
@@ -65,7 +65,7 @@ philosophy:
 <details>
   <summary><strong>more?</strong></summary>
 
-## 💼 Recent Work Experiences
+## **💼 Experiences**
 
 | **Role** | **Description** |
 | :--- | :--- |
@@ -76,7 +76,7 @@ philosophy:
 | **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | Developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
 ---
 
-## 👨‍💻 Projects
+## **👨‍💻 Projects**
 
 | **Containerized Youtube Sentiment Analysis** | **Retrieval-Augmented Generation (RAG) System** | **HYGENE: Diffusion-based Hypergraph Generation** |
 | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ philosophy:
 | Presented **TIGER**, a method for generative retrieval of item IDs for recommender systems. | Presented **Score GAN & Discriminator Flow**, a unified framework for GANs and Diffusion models. | |
 ---
 
-## 📌 Challenges & Hackathons
+## **📌 Honors \& Awards**
 
 | **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** | **Skill-Gap Analysis Automation** |
 | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ philosophy:
 | Achieved 1st place at the **Inria** challenge with a domain adaptation-aware model for Mean Arterial Pressure (MAP) prediction. | Placed 2nd at the **MIT** Hackathon with a full-stack solution (**LangGraph, OpenAI, FastAPI, Next.js**) to trace and visualize AI agent interactions. | Placed 2nd at the **MIT** Hackathon with a full-stack app (**React, FastAPI, Gemini, BeautifulSoup**) to automate skill-gap analysis by aggregating multi-source data. |
 ---
 
-## 🌎 Open Source Contributions
+## **🌎 Open Source**
 
 | PyTorch / torchtitan | **Hugging Face Transformers** | **OTT-JAX** | **Responsible AI Blog (IP Paris)** |
 | :--- | :--- | :--- | :--- |
@@ -109,7 +109,7 @@ philosophy:
 | Added missing `--model.flavor=debugmodel_flex_attn` flags for Llama 3 FlexAttention in the compiler toolkit documentation. | Updated model cards for the **Swin Transformer, Swin V2, Pixtral & ShieldGemma 2 models** to improve documentation. | Authored a tutorial on **Annealed Sinkhorn** for the Optimal Transport Tools (OTT-JAX) library. | Wrote a blog post analyzing the impact of knowledge distillation on model interpretability. |
 ---
 
-## 🎓 Visiting​
+## **🎓 Visiting​**
 
 | **Institution** | **Status & Focus** |
 | :--- | :--- |
@@ -117,9 +117,20 @@ philosophy:
 | <img src="https://github.com/user-attachments/assets/69a2c8c1-e2fe-41db-bce9-7a240e0a42e2" alt="Stanford University" width="20"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
 ---
 
-## **Looking forward to...**
+</details>
+
+## **🤗 Looking forward to...**
 
 I'm always excited to take on new challenges in AI research and application. If you have an interesting project, a research idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things AI :)
+
+
+## **🔗 Let's Connect!**
+<a href="https://x.com/imbryanbradfo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/bryanbradfo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
+<a href="https://bryanbradfo.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge" /></a>
+<a href="https://huggingface.co/BryanBradfo" target="_blank"><img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" /></a>
+
+<sub>Projects: [SweepKit](https://github.com/Bryanbradfo/sweepkit) · [Physics Guided Machine Learning](https://github.com/BryanBradfo/physics-guided-ml) · [Ourtub](https://ourtub.tech)</sub>
 
 ## 
 
@@ -128,8 +139,3 @@ I'm always excited to take on new challenges in AI research and application. If 
 <h3 align="center">
  <img src="https://github.com/user-attachments/assets/b97503a9-1159-4766-9d25-57c9f537187d" alt="Software Engineer" width=200>
 </h3>
-
-</details>
-
-<sub>Links: [LinkedIn](https://www.linkedin.com/in/bryanbradfo/) · [Portfolio](https://bryanbradfo.me/) · [X](http://x.com/imbryanbradfo) · [HuggingFace](https://huggingface.co/BryanBradfo)</sub><br>
-<sub>Projects: [SweepKit](https://github.com/Bryanbradfo/sweepkit) · [Physics Guided Machine Learning](https://github.com/BryanBradfo/physics-guided-ml) · [Ourtub](https://ourtub.tech)</sub>
