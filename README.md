@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  Bryan
 
-**`Research Engineer @ Cohere AI Labs & @ Hugging Science | CS + Math @ École Polytechnique`**
+**`Research Engineer @ CentraleSupélec | Open Source Research Engineer Cohere AI Labs & @ Hugging Science | CS + Math @ École Polytechnique`**
 
 _Teaching artifical intelligent models to be intelligent :)_
 
@@ -15,8 +15,6 @@ I am a passionate about **Artificial Intelligence** and **Machine Learning** res
 Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
 ---
-<details>
-  <summary><strong>about_me.yml</strong></summary>
 
 ```yaml
 metadata:
@@ -60,7 +58,6 @@ philosophy:
   - "Failure is a form of success." 
 ```
 ---
-</details>
 
 <details>
   <summary><strong>more?</strong></summary>
