@@ -1,62 +1,52 @@
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  Bryan
 
-**`Research Engineer @ CentraleSupélec | Open Source Research Engineer Cohere AI Labs & @ Hugging Science | CS + Math @ École Polytechnique`**
-
 _Teaching artifical intelligent models to be intelligent :)_
 
 ## **🚀 About Me**
 
 I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. :)
 
-<h3 align="center">
- <img src="https://github.com/user-attachments/assets/47ab8700-4017-4adf-a4ba-cee9d320240b" alt="Working" width=300>
-</h3>
-
 Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
 ---
 
 ```yaml
-metadata:
+identity:
   origin: China 🇨🇳
-  nationality: France 🇫🇷
+  nationality: France 🇫🇷 (EU 🇪🇺)
   tagline: Engineering the intelligence in AI & Automating with it
-  travel_into: [Singapore 🇸🇬, Thailand 🇹🇭, Malaysia 🇲🇾, Japan 🇯🇵, China 🇨🇳, Taiwan 🇹🇼, Italy 🇮🇹, Germany 🇩🇪,
-               France 🇫🇷, Spain 🇪🇸, Sweden 🇸🇪]  
+  travel_into: [Singapore 🇸🇬, Thailand 🇹🇭, Malaysia 🇲🇾, Japan 🇯🇵, China 🇨🇳, Taiwan 🇹🇼, 
+               France 🇫🇷, Spain 🇪🇸, Italy 🇮🇹, Germany 🇩🇪, Sweden 🇸🇪]
 
-core_competencies:
-  - area: Artificial Intelligence
-    skills: [Deep Learning, Generative AI, Computer Vision, NLP, LLM, Responsible AI, Agentic AI]
-  - area: MLOps & Data Engineering
-    skills: [CI/CD, Docker, K8s, DVC, MLflow, ETL, Dashboard, GitHub Actions, Azure/GCP/AWS]
-  - area: Software Engineering
-    skills: [Python, Git, FastAPI, SQL, JAX, C++, C, Java, TypeScript/JavaScript, conda, uv]
-
-career_highlights:
-  - role: Data Scientist
-    company: Iliad Group (Free & Scaleway)
-    focus: Building production-level GenAI solutions and data pipelines.
-  - role: Research Engineer
-    institutions: [CentraleSupélec, École Polytechnique, ENS Ulm, ENSAE/Apple, Télécom Paris, NUS, CNRS]
-    focus: Advancing research in VLMs, model compression, and optimization.
-  - role: Hackathon Winner
-    achievements:
-      - "1st/178 @ Inria Challenge (Mean Arterial Pressure Prediction)"
-      - "2nd/338 @ MIT Hackathon (AI AgentOps Replay)"
-
-personal_interests:
-  - Traveling & Exploring Cultures
-  - Gyoza Making
-  - K-Pop Dancing
-  - Open Source Contribution
+passions:
+  culture: Traveling & Exploring Cultures 🌍
+  activity: Gyoza Making & Eating 🥟
+  sport: K-Pop Dancing 💃
+  love: Girlfriend Caring ❤️
 
 philosophy:
-  - "Low ego, high impact."
-  - "Follow what you like, success will follow."
-  - "Continuous learning & open collaboration."
-  - "Open source is magical."
-  - "Failure is a form of success." 
+  ego_check: "Low ego, high impact."
+  success: "Follow what you like, success will follow."
+  open_source: "Open source is magical."
+  resilience: "Failure is a form of success." 
 ```
+
+---
+
+🌱 [ourtub: seeing knowledge, not just searching for it](https://ourtub.tech)
+
+🤖 [sweepkit: rust-powered blazing-fast cli tool to scan & clean unused dev dependencies](https://github.com/Bryanbradfo/sweepkit)
+
+🤖 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
+
+🤖 [jaxlaxy: your compass for the jax multiverse](https://github.com/Bryanbradfo/JAXlaxy)
+
+🔖 [partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
+
+🔖 [impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
+
+🔖 [physics-guided machine learning](https://github.com/BryanBradfo/physics-guided-ml)
+
 ---
 
 <details>
@@ -66,7 +56,7 @@ philosophy:
 
 | **Role** | **Description** |
 | :--- | :--- |
-| **Data Scientist** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | Generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
+| **Research Data Scientist** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | Generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
 | **Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | Enhanced sparse attention selection mechanisms to boost few-shot classification performance on Vision Language Models. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
 | **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | Improved alignment between visual and textual embeddings for composed video retrieval by designing a novel loss function and an MLP architecture on the **CoVR** research paper. ([See Paper](https://arxiv.org/abs/2308.14746)) |
 | **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/effeaecb-480c-445c-9ae3-ec875a03f6d9" alt="NUS" width=50> <br> (March 2, 2024) | Created an efficient checkpointing fine-tuning scheme for Deep Neural Networks (DNNs) using Delta-LoRA + LC-checkpoint, achieving compression ratios up to 25x on models like ViTs, ResNets, VGGs, AlexNet, and LeNet. ([See Code](https://github.com/BryanBradfo/pfe_lc_lora)) |
@@ -120,15 +110,6 @@ philosophy:
 
 I'm always excited to take on new challenges in AI research and application. If you have an interesting project, a research idea, or just want to discuss the latest in tech, let’s connect! I'm open to collaborations and geeking out about all things AI :)
 
-
-## **🔗 Let's Connect!**
-<a href="https://x.com/imbryanbradfo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/bryanbradfo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
-<a href="https://bryanbradfo.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge" /></a>
-<a href="https://huggingface.co/BryanBradfo" target="_blank"><img alt="HuggingFace" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" /></a>
-
-<sub>Projects: [SweepKit](https://github.com/Bryanbradfo/sweepkit) · [Physics Guided Machine Learning](https://github.com/BryanBradfo/physics-guided-ml) · [Ourtub](https://ourtub.tech)</sub>
-
 ## 
 
 <h3 align="center">Thanks for your attention! Stay tuned! :) </h3>
@@ -136,3 +117,8 @@ I'm always excited to take on new challenges in AI research and application. If 
 <h3 align="center">
  <img src="https://github.com/user-attachments/assets/b97503a9-1159-4766-9d25-57c9f537187d" alt="Software Engineer" width=200>
 </h3>
+
+## **🔗 Let's Connect!**
+<a href="https://bryanbradfo.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge" /></a>
+<a href="https://x.com/imbryanbradfo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/bryanbradfo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
