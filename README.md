@@ -35,11 +35,11 @@ philosophy:
 
 🌱 [ourtub: seeing knowledge, not just searching for it](https://ourtub.tech)
 
+🤖 [jaxlaxy: your compass for the jax multiverse](https://jaxlaxy.bryanbradfo.me/)
+
 🤖 [sweepkit: rust-powered blazing-fast cli tool to scan & clean unused dev dependencies](https://github.com/Bryanbradfo/sweepkit)
 
 🤖 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
-
-🤖 [jaxlaxy: your compass for the jax multiverse](https://github.com/Bryanbradfo/JAXlaxy)
 
 🔖 [partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
