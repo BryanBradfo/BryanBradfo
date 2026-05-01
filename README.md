@@ -50,7 +50,7 @@ philosophy:
 
 🔖 [ott-jax: implementation of annealed Sinkhorn for optimal transport (convergence, regularization path and debiasing)](https://github.com/ott-jax/ott/pull/634)
 
-🔖 [neural graph generation from text](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)
+🔖 [neural graph generation with conditioning](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)
 
 ---
 
