@@ -46,7 +46,7 @@ philosophy:
 
 🔖 [impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
 
-🔖 [physics-guided machine learning](https://github.com/BryanBradfo/physics-guided-ml)
+🔖 [ml4sci: physics-guided machine learning](https://github.com/BryanBradfo/physics-guided-ml)
 
 🔖 [ott-jax: implementation of annealed Sinkhorn for optimal transport (convergence, regularization path and debiasing)](https://github.com/ott-jax/ott/pull/634)
 
