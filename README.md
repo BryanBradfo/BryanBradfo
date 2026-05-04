@@ -42,15 +42,17 @@ philosophy:
 
 🤖 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
 
-🔖 [partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
+🔖 [huggingscience: partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
-🔖 [impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
+🔖 [responsible ai: impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
 
-🔖 [ml4sci: physics-guided machine learning](https://github.com/BryanBradfo/physics-guided-ml)
+🔖 [ml4sci: physics-guided machine learning on gravitational lensing](https://github.com/BryanBradfo/physics-guided-ml)
 
 🔖 [ott-jax: implementation of annealed Sinkhorn for optimal transport (convergence, regularization path and debiasing)](https://github.com/ott-jax/ott/pull/634)
 
-🔖 [neural graph generation with conditioning](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)
+🔖 [graph generation: neural graph generation with text conditioning](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)
+
+🔖 [listen to the wild: predicting naturalness with acoustic indices](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)
 
 ---
 
