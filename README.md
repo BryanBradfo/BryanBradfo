@@ -54,6 +54,8 @@ philosophy:
 
 🔖 [listen to the wild: predicting naturalness with acoustic indices](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)
 
+🔖 [imagenet-sketch classification: classify b&w google image "sketch of __" images, where __ is the standard imagenet class name](https://drive.google.com/file/d/1oGsZfCIHDUTh1XC-xmxQfVNRUsBDrh42/view?usp=sharing)
+
 ---
 
 <details>
