@@ -56,6 +56,8 @@ philosophy:
 
 🔖 [imagenet-sketch classification: classify b&w google image "sketch of __" images, where __ is the standard imagenet class name](https://drive.google.com/file/d/1oGsZfCIHDUTh1XC-xmxQfVNRUsBDrh42/view?usp=sharing)
 
+🔖 [vlm few-shot performance improvement: enhance sparse attention selection mechanism](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)
+
 ---
 
 <details>
