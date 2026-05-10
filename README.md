@@ -54,9 +54,11 @@ philosophy:
 
 🔖 [listen to the wild: predicting naturalness with acoustic indices](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)
 
-🔖 [imagenet-sketch classification: classify b&w google image "sketch of __" images, where __ is the standard imagenet class name](https://drive.google.com/file/d/1oGsZfCIHDUTh1XC-xmxQfVNRUsBDrh42/view?usp=sharing)
+🔖 [imagenet-sketch classification: classify b&w google image "sketch of __" images, where __ is the standard imagenet class](https://drive.google.com/file/d/1oGsZfCIHDUTh1XC-xmxQfVNRUsBDrh42/view?usp=sharing)
 
 🔖 [vlm few-shot performance improvement: enhance sparse attention selection mechanism](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)
+
+🔖 [composed video retrieval: improved alignment between visual and textual embeddings for composed video retrieval](https://drive.google.com/file/d/1rnxA_vawuEp14X8_gVqL0Y2SCh7qdNUU/view?usp=sharing)
 
 ---
 
