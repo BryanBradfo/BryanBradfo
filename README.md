@@ -4,7 +4,7 @@ _Teaching artifical intelligent models to be intelligent :)_
 
 ## **🚀 About Me**
 
-I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. :)
+I am a passionate about **Artificial Intelligence** and **Machine Learning** research. My research interests span ai for science, computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am driven by the potential of artificial intelligence (AI) to address complex challenges and create impactful solutions. :)
 
 Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
