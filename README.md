@@ -60,6 +60,8 @@ philosophy:
 
 🔖 [composed video retrieval: improved alignment between visual and textual embeddings for composed video retrieval](https://drive.google.com/file/d/1rnxA_vawuEp14X8_gVqL0Y2SCh7qdNUU/view?usp=sharing)
 
+🔖 [hygene: diffusion-based hypergraph generation method](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=sharing)
+
 ---
 
 <details>
