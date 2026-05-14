@@ -62,7 +62,7 @@ philosophy:
 
 🔖 [hygene: diffusion-based hypergraph generation method](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=sharing)
 
-🔖 [cfdg: review of classifier free diffusion guidance](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=sharing)
+🔖 [cfdg: review of classifier-free diffusion guidance](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=sharing)
 
 ---
 
