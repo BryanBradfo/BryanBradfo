@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  Bryan
+<h1 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  Bryan </h1>
 
-_Teaching artifical intelligent models to be intelligent :)_
+<p align="center"> <i>Teaching artifical intelligent models to be intelligent :)</i> </p>
 
 ## **🚀 About Me**
 
@@ -12,18 +12,18 @@ Outside of work, I love traveling to explore new countries and cultures. I'm als
 
 ```yaml
 identity:
-  origin: China 🇨🇳
-  nationality: France 🇫🇷 (EU 🇪🇺)
+  origin: 🇨🇳 China 
+  nationality: 🇫🇷 France (🇪🇺 EU)
   tagline: Engineering the intelligence in AI & Automating with it
-  travel_into: [Singapore 🇸🇬, Thailand 🇹🇭, Malaysia 🇲🇾, Japan 🇯🇵, China 🇨🇳, Taiwan 🇹🇼, 
-               France 🇫🇷, Spain 🇪🇸, Italy 🇮🇹, Germany 🇩🇪, Sweden 🇸🇪]
+  travel_into: [🇸🇬 Singapore, 🇹🇭 Thailand, 🇲🇾 Malaysia, 🇯🇵 Japan, 🇨🇳 China, 🇹🇼 Taiwan, 
+               🇫🇷 France, 🇪🇸 Spain, 🇮🇹 Italy, 🇩🇪 Germany, 🇸🇪 Sweden]
 
 passions:
-  culture: Traveling & Exploring Cultures 🌍
-  activity: Gyoza Making & Eating 🥟
-  sport: K-Pop Dancing 💃
-  love: Girlfriend Caring ❤️
-  gaming: Counter Strike 💥
+  culture: 🌍 Traveling & Exploring Cultures
+  activity: 🥟 Gyoza Making & Eating
+  sport: 💃 K-Pop Dancing
+  love: ❤️ Girlfriend Caring
+  gaming: 💥 Counter Strike
 
 philosophy:
   ego_check: "Low ego, high impact."
@@ -135,7 +135,10 @@ I'm always excited to take on new challenges in AI research and application. If 
  <img src="https://github.com/user-attachments/assets/b97503a9-1159-4766-9d25-57c9f537187d" alt="Software Engineer" width=200>
 </h3>
 
-## **🔗 Let's Connect!**
-<a href="https://bryanbradfo.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge" /></a>
-<a href="https://x.com/imbryanbradfo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge" /></a>
+## **📫 Where to find me?**
+<a href="https://bryanbradfo.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 <a href="https://www.linkedin.com/in/bryanbradfo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
+<a href="https://x.com/imbryanbradfo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://discordapp.com/users/358382602295443461" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://github.com/BryanBradfo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+
