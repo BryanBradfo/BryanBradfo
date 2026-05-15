@@ -9,7 +9,7 @@ I am a passionate about **Artificial Intelligence** and **Machine Learning** res
 Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
 <h3 align="center">
- <img src="https://github.com/user-attachments/assets/00e2b7ab-086f-4316-a5bc-1497bd1f1156" alt="happy" width=150>
+ <img src="https://github.com/user-attachments/assets/00e2b7ab-086f-4316-a5bc-1497bd1f1156" alt="happy" width=80>
 </h3>
 
 ---
