@@ -139,6 +139,6 @@ I'm always excited to take on new challenges in AI research and application. If 
 <a href="https://bryanbradfo.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 <a href="https://www.linkedin.com/in/bryanbradfo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge" /></a>
 <a href="https://x.com/imbryanbradfo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://discordapp.com/users/358382602295443461" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://github.com/BryanBradfo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-
+<a href="https://huggingface.co/BryanBradfo" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+<a href="https://github.com/BryanBradfo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://discordapp.com/users/358382602295443461" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
