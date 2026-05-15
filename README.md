@@ -70,6 +70,12 @@ philosophy:
 
 ---
 
+<div align="center">
+  <img src="metrics.svg" alt="GitHub Metrics" width="800">
+</div>
+
+---
+
 <details>
   <summary><strong>more?</strong></summary>
 
