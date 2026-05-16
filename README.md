@@ -71,7 +71,7 @@ philosophy:
 ---
 
 <div align="center">
-  <img src="metrics.svg" alt="GitHub Metrics" width="800">
+  <img src="metrics.svg" alt="GitHub Metrics" width="450">
 </div>
 
 ---
