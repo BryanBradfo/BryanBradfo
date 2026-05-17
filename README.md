@@ -68,6 +68,8 @@ philosophy:
 
 🔖 [cfdg: review of classifier-free diffusion guidance](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=sharing)
 
+🔖 [unifying gan & diffusion: score gan and discriminator flow, a unified framework](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
+
 ---
 
 <div align="center">
