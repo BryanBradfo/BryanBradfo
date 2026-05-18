@@ -70,6 +70,8 @@ philosophy:
 
 🔖 [unifying gan & diffusion: score gan and discriminator flow, a unified framework](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
 
+🔖 [tiger: generative retrieval of item IDs for recommender systems](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
+
 ---
 
 <div align="center">
