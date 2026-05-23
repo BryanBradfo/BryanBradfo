@@ -42,6 +42,8 @@ philosophy:
 
 🤖 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
 
+🤖 [courant: cozy reminders for developers to drink water, rest eyes, and stretch](https://github.com/BryanBradfo/courant)
+
 🔖 [huggingscience: partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
 🔖 [responsible ai: impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
