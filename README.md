@@ -44,6 +44,8 @@ philosophy:
 
 🤖 [courant: cozy reminders for developers to drink water, rest eyes, and stretch](https://github.com/BryanBradfo/courant)
 
+🤖 [rubiksera: learn to solve your rubik's cube](https://rubiksera.bryanbradfo.me/)
+
 🔖 [huggingscience: partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
 🔖 [responsible ai: impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
