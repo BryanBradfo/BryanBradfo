@@ -87,6 +87,7 @@ philosophy:
 
 | **Role** | **Description** |
 | :--- | :--- |
+| **Lead AI Engineer** @ <br> <img src="https://github.com/user-attachments/assets/0b32022b-77d2-44e7-baf4-81dbe8d9eeb5" alt="StationF" width=70> <br> (December 03, 2025) | Managed a 3-person team to develop an aviation document processing platform ($200k/year) using OCR, document understanding, and fine-tuned LLMs on Vertex AI.|
 | **Research Data Scientist** @ <br> <img src="https://github.com/user-attachments/assets/c97bd36b-b23f-4cba-845a-9c8773c48dee" alt="Iliad" width=40> <br> (February 24, 2025) | Generated coverage maps using an image segmentation model in the GeoAI domain, automated anomaly detection (Prophet \& SARIMAX), built ETL data pipelines, and created insightful dashboards for directors. |
 | **Research Engineer** @ <br> <img width="40" alt="cmap" src="https://github.com/user-attachments/assets/73215462-ace8-4a81-a009-aeb44b27d36a" /> <br> (December 12, 2024) | Enhanced sparse attention selection mechanisms to boost few-shot classification performance on Vision Language Models. ([See Report](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)) |
 | **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/a8052b0e-1fe8-4dc2-a8d8-5e6a3d45c877" alt="ENS Ulm" width="30"> <br> (November 5, 2024) | Improved alignment between visual and textual embeddings for composed video retrieval by designing a novel loss function and an MLP architecture on the **CoVR** research paper. ([See Paper](https://arxiv.org/abs/2308.14746)) |
