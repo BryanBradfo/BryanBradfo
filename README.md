@@ -46,6 +46,8 @@ philosophy:
 
 🤖 [rubiksera: learn to solve your rubik's cube](https://rubiksera.bryanbradfo.me/)
 
+🤖 [mantispdf: free pdf tools in your browser](https://mantispdf.bryanbradfo.me/)
+
 🔖 [huggingscience: partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
 🔖 [responsible ai: impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
