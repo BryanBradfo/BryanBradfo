@@ -36,17 +36,17 @@ philosophy:
 
 🌱 [ourtub: seeing knowledge, not just searching for it](https://ourtub.tech)
 
-🤖 [jaxlaxy: your compass for the jax multiverse](https://jaxlaxy.bryanbradfo.me/)
+🌱 [jaxlaxy: your compass for the jax multiverse](https://jaxlaxy.bryanbradfo.me/)
 
-🤖 [sweepkit: rust-powered blazing-fast cli tool to scan & clean unused dev dependencies](https://github.com/Bryanbradfo/sweepkit)
+🌱 [sweepkit: rust-powered blazing-fast cli tool to scan & clean unused dev dependencies](https://github.com/Bryanbradfo/sweepkit)
 
-🤖 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
+🌱 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
 
-🤖 [courant: cozy reminders for developers to drink water, rest eyes, and stretch](https://github.com/BryanBradfo/courant)
+🌱 [courant: cozy reminders for developers to drink water, rest eyes, and stretch](https://github.com/BryanBradfo/courant)
 
-🤖 [rubiksera: learn to solve your rubik's cube](https://rubiksera.bryanbradfo.me/)
+🌱 [rubiksera: learn to solve your rubik's cube](https://rubiksera.bryanbradfo.me/)
 
-🤖 [mantispdf: free pdf tools in your browser](https://mantispdf.bryanbradfo.me/)
+🌱 [mantispdf: free pdf tools in your browser](https://mantispdf.bryanbradfo.me/)
 
 🔖 [huggingscience: partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
