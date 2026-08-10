@@ -97,7 +97,7 @@ philosophy:
 | **Research Engineer** @ <br> <img src="https://github.com/user-attachments/assets/142cbd2e-ef83-42fc-bae0-9bfb1a2b5fb5" alt="CNRS" width="30"> <br> (June 8, 2023) | Developed an interactive optimization algorithm for a Constraint Satisfaction Problem (CSP), applying Neural Networks and Decision Trees and engineering techniques to improve IBM's CPLEX solution generation. ([See Code](https://github.com/BryanBradfo/laas-mission)) |
 ---
 
-## **👨‍💻 Projects**
+## **🗂️ Projects**
 
 | **Containerized Youtube Sentiment Analysis** | **Retrieval-Augmented Generation (RAG) System** | **HYGENE: Diffusion-based Hypergraph Generation** |
 | :--- | :--- | :--- |
@@ -114,7 +114,7 @@ philosophy:
 | Presented **TIGER**, a method for generative retrieval of item IDs for recommender systems. | Presented **Score GAN & Discriminator Flow**, a unified framework for GANs and Diffusion models. | |
 ---
 
-## **📌 Honors \& Awards**
+## **🎖️ Honors**
 
 | **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** | **Skill-Gap Analysis Automation** |
 | :--- | :--- | :--- |
