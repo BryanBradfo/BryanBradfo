@@ -132,10 +132,10 @@ philosophy:
 
 ## **🎓 Visiting​**
 
-| **Institution** | **Status & Focus** |
+| **Institution** | ** Focus** |
 | :--- | :--- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="30"> <br> **Harvard University** | **CS50 Student** <br> Completed renowned courses providing a robust foundation in Computer Science and AI (**CS50x, CS50P & CS50AI**). |
-| <img src="https://github.com/user-attachments/assets/69a2c8c1-e2fe-41db-bce9-7a240e0a42e2" alt="Stanford University" width="20"> <br> **Stanford University** | **Visiting Student** <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="30"> <br> **Harvard University** | <br> Completed renowned courses providing a robust foundation in Computer Science and AI (**CS50x, CS50P & CS50AI**). |
+| <img src="https://github.com/user-attachments/assets/69a2c8c1-e2fe-41db-bce9-7a240e0a42e2" alt="Stanford University" width="20"> <br> **Stanford University** | <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
 ---
 
 </details>
