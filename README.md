@@ -99,7 +99,7 @@ philosophy:
 
 ## **🗂️ Projects**
 
-| **Containerized Youtube Sentiment Analysis** | **Retrieval-Augmented Generation (RAG) System** | **HYGENE: Diffusion-based Hypergraph Generation** |
+| **Youtube Comments Sentiment Analysis** | **Retrieval-Augmented Generation (RAG) System** | **HYGENE: Diffusion-based Hypergraph Generation** |
 | :--- | :--- | :--- |
 | [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/youtube-sentiment-mlops) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="30"> | [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/humanAI) <br> <img src="https://yt3.googleusercontent.com/ytc/AIdro_kBxoahJRCGB_tikN3cFHbejvDunuwzRrGr1jpCvgyaog=s900-c-k-c0x00ffffff-no-rj" width="30"> | [![Paper](https://img.shields.io/badge/Read-Paper-red)](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=drive_link) <br> <img src="https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2024/01/logo_telecom_ipparis_rvb_fond_h-770x360.png" width="60"> |
 | A full MLOps pipeline using **Docker**, **GitHub Actions**, **DVC**, and **MLflow**. | A RAG system leveraging **LangChain**, **FAISS**, and **Ollama** for inference. | Implemented hypergraph generation with diffusion models (**AAAI**), a project at **Télécom Paris**. |
@@ -118,7 +118,7 @@ philosophy:
 
 | **Mean Arterial Pressure Prediction** | **Full-stack Agent-Agnostic Solution** | **Skill-Gap Analysis Automation** |
 | :--- | :--- | :--- |
-| **Rank: 1st / 178** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/map_estimation/tree/main) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | **Rank: 2nd / 338** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/hackathon-yubu-code) <br> <img src="https://github.com/user-attachments/assets/979a7da8-54b8-4b17-addc-78977b9528f2" width="40"> | **Rank: 2nd / 639** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/flashlight) <br> <img src="https://github.com/user-attachments/assets/979a7da8-54b8-4b17-addc-78977b9528f2" width="40"> |
+| **Rank: 1st / 200+** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/map_estimation/tree/main) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inr_logo_rouge.svg/1200px-Inr_logo_rouge.svg.png" width="60"> | **Rank: 2nd / 400+** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/hackathon-yubu-code) <br> <img src="https://github.com/user-attachments/assets/979a7da8-54b8-4b17-addc-78977b9528f2" width="40"> | **Rank: 2nd / 650+** <br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/BryanBradfo/flashlight) <br> <img src="https://github.com/user-attachments/assets/979a7da8-54b8-4b17-addc-78977b9528f2" width="40"> |
 | Achieved 1st place at the **Inria** challenge with a domain adaptation-aware model for Mean Arterial Pressure (MAP) prediction. | Placed 2nd at the **MIT** Hackathon with a full-stack solution (**LangGraph, OpenAI, FastAPI, Next.js**) to trace and visualize AI agent interactions. | Placed 2nd at the **MIT** Hackathon with a full-stack app (**React, FastAPI, Gemini, BeautifulSoup**) to automate skill-gap analysis by aggregating multi-source data. |
 ---
 
@@ -132,7 +132,7 @@ philosophy:
 
 ## **🎓 Visiting​**
 
-| **Institution** | ** Focus** |
+| **Institution** | **Focus** |
 | :--- | :--- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" alt="Harvard University" width="30"> <br> **Harvard University** | <br> Completed renowned courses providing a robust foundation in Computer Science and AI (**CS50x, CS50P & CS50AI**). |
 | <img src="https://github.com/user-attachments/assets/69a2c8c1-e2fe-41db-bce9-7a240e0a42e2" alt="Stanford University" width="20"> <br> **Stanford University** | <br> Followed world-class courses in Computer Science and Artificial Intelligence. |
