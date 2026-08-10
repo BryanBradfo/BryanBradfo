@@ -34,45 +34,45 @@ philosophy:
 
 ---
 
-🌱 [ourtub: seeing knowledge, not just searching for it](https://ourtub.tech)
+🌱 [**ourtub:** seeing knowledge, not just searching for it](https://ourtub.tech)
 
-🌱 [jaxlaxy: your compass for the jax multiverse](https://jaxlaxy.bryanbradfo.me/)
+🌱 [**jaxlaxy:** your compass for the jax multiverse](https://jaxlaxy.bryanbradfo.me/)
 
-🌱 [sweepkit: rust-powered blazing-fast cli tool to scan & clean unused dev dependencies](https://github.com/Bryanbradfo/sweepkit)
+🌱 [**sweepkit:** rust-powered blazing-fast cli tool to scan & clean unused dev dependencies](https://github.com/Bryanbradfo/sweepkit)
 
-🌱 [torchOCR: pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
+🌱 [**torchOCR:** pytorch library for end-to-end optical character recognition](https://github.com/Bryanbradfo/torchOCR)
 
-🌱 [courant: cozy reminders for developers to drink water, rest eyes, and stretch](https://github.com/BryanBradfo/courant)
+🌱 [**courant:** cozy reminders for developers to drink water, rest eyes, and stretch](https://github.com/BryanBradfo/courant)
 
-🌱 [rubiksera: learn to solve your rubik's cube](https://rubiksera.bryanbradfo.me/)
+🌱 [**rubiksera:** learn to solve your rubik's cube](https://rubiksera.bryanbradfo.me/)
 
-🌱 [mantispdf: free pdf tools in your browser](https://mantispdf.bryanbradfo.me/)
+🌱 [**mantispdf:** free pdf tools in your browser](https://mantispdf.bryanbradfo.me/)
 
-🔖 [huggingscience: partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
+🔖 [**huggingscience:** partial differential equations (pde) importance](https://huggingface.co/blog/hugging-science/pde)
 
-🔖 [responsible ai: impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
+🔖 [**responsible ai:** impact of knowledge distillation on model interpretability](https://responsible-ai-datascience-ipparis.github.io/posts/impact-knowledge-distillation-model-interpretability/)
 
-🔖 [ml4sci: physics-guided machine learning on gravitational lensing](https://github.com/BryanBradfo/physics-guided-ml)
+🔖 [**ml4sci:** physics-guided machine learning on gravitational lensing](https://github.com/BryanBradfo/physics-guided-ml)
 
-🔖 [ott-jax: implementation of annealed Sinkhorn for optimal transport (convergence, regularization path and debiasing)](https://github.com/ott-jax/ott/pull/634)
+🔖 [**ott-jax:** implementation of annealed Sinkhorn for optimal transport (convergence, regularization path and debiasing)](https://github.com/ott-jax/ott/pull/634)
 
-🔖 [graph generation: neural graph generation with text conditioning](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)
+🔖 [**graph generation:** neural graph generation with text conditioning](https://drive.google.com/file/d/1NKSn4wrwlhIpylANONli0wscYHtX3vPD/view?usp=drive_link)
 
-🔖 [listen to the wild: predicting naturalness with acoustic indices](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)
+🔖 [**listen to the wild:** predicting naturalness with acoustic indices](https://drive.google.com/file/d/1xf0wq_X49DehzXYevwRvZ3K1fPNdqCLP/view)
 
-🔖 [imagenet-sketch classification: classify b&w google image "sketch of __" images, where __ is the standard imagenet class](https://drive.google.com/file/d/1oGsZfCIHDUTh1XC-xmxQfVNRUsBDrh42/view?usp=sharing)
+🔖 [**imagenet-sketch classification:** classify b&w google image sketch of standard imagenet class](https://drive.google.com/file/d/1oGsZfCIHDUTh1XC-xmxQfVNRUsBDrh42/view?usp=sharing)
 
-🔖 [vlm few-shot performance improvement: enhance sparse attention selection mechanism](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)
+🔖 [**vlm few-shot performance improvement:** enhance sparse attention selection mechanism](https://drive.google.com/file/d/1p1tqRu_jQjSGwlNOByCure_qGVbJCOWP/view?usp=drive_link)
 
-🔖 [composed video retrieval: improved alignment between visual and textual embeddings for composed video retrieval](https://drive.google.com/file/d/1rnxA_vawuEp14X8_gVqL0Y2SCh7qdNUU/view?usp=sharing)
+🔖 [**composed video retrieval:** improved alignment between visual and textual embeddings for composed video retrieval](https://drive.google.com/file/d/1rnxA_vawuEp14X8_gVqL0Y2SCh7qdNUU/view?usp=sharing)
 
-🔖 [hygene: diffusion-based hypergraph generation method](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=sharing)
+🔖 [**hygene:** diffusion-based hypergraph generation method](https://drive.google.com/file/d/1F9ZdbZF6Ch8lsFvNgq18PvQgf9NeT4t5/view?usp=sharing)
 
-🔖 [cfdg: review of classifier-free diffusion guidance](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=sharing)
+🔖 [**cfdg:** review of classifier-free diffusion guidance](https://drive.google.com/file/d/1iQ8zn0P-_o5Dik9R4S1NzXw5VcFFNiT7/view?usp=sharing)
 
-🔖 [unifying gan & diffusion: score gan and discriminator flow, a unified framework](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
+🔖 [**unifying gan & diffusion:** score gan and discriminator flow, a unified framework](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
 
-🔖 [tiger: generative retrieval of item IDs for recommender systems](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
+🔖 [**tiger:** generative retrieval of item IDs for recommender systems](https://docs.google.com/presentation/d/1HCmOpw3QefCQXczSrtRxtT7uhn-_SSwoF7JTDRtCp0o/edit?usp=sharing)
 
 ---
 
